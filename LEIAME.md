@@ -1,7 +1,5 @@
 # Cobertura vacinal infantil: Brasil, regiões, UFs e municípios do Pará (2014–2025)
 
-Base de dados do trabalho de painéis no Tableau.
-
 ## Use no Tableau: pasta `base_tableau/`
 
 | Arquivo | Grão (uma linha por) | Uso |
@@ -35,15 +33,9 @@ Cuidados:
 | Nascidos vivos | SINASC, via TabNet | 2025 preliminar |
 | Territórios e mapas | IBGE, API de localidades e de malhas | — |
 
-Conferências feitas:
+## Limitações
 
-- No painel, a cobertura anual calculada bate exatamente com o valor acumulado de dezembro publicado para o Brasil.
-- A soma das regiões é igual ao Brasil.
-- A soma dos 144 municípios é igual ao Pará.
-
-## Limitações (citar no trabalho)
-
-- **Quebra de série em 2023:** os registros passaram para a RNDS, vinculados ao CPF, e a fonte mudou (TabNet → Painel). Parte da variação entre 2022 e 2023 pode refletir a mudança de sistema, não só a vacinação. Campo `quebra_serie`.
+- **Quebra de série em 2023:** os registros passaram para a RNDS, vinculados ao CPF, e a fonte mudou (TabNet → Painel DATASUS). Parte da variação entre 2022 e 2023 pode refletir a mudança de sistema, não só a vacinação. Campo `quebra_serie`.
 - **2025 provisório:** dados sujeitos a atualização; a população-alvo de 2025 é igual à de 2024 (SINASC 2025 preliminar). Campo `dado_provisorio`.
 - **Coberturas acima de 100%:** ocorrem em municípios pequenos (denominador pequeno), por vacinação de crianças de outros municípios ou por subestimativa de nascidos vivos.
 - **IDHM de 2010:** é anterior ao período analisado. Mojuí dos Campos, instalado em 2013, não tem IDHM.
