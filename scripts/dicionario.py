@@ -1,0 +1,87 @@
+"""Gera base_tableau/dicionario_variaveis.csv (uma linha por tabela x variável).
+Uso: python3 dicionario.py <pasta_do_trabalho>"""
+import csv, os, sys
+
+D = [
+    # tabela, variável, tipo, descrição, valores/exemplo
+    ("cobertura_longa", "nivel", "texto", "Nível territorial da linha. FILTRAR SEMPRE por este campo para não misturar níveis.", "Brasil; Região; UF; Município"),
+    ("cobertura_longa", "ordem_nivel", "inteiro", "Ordem para classificar os níveis do mais agregado ao mais detalhado", "1=Brasil ... 4=Município"),
+    ("cobertura_longa", "cod_territorio", "texto", "Código do território: BR; código da região (1 a 5); código IBGE da UF (2 dígitos); código IBGE do município (6 dígitos)", "BR; 1; 15; 150140"),
+    ("cobertura_longa", "cod_ibge7", "texto", "Código IBGE do município com 7 dígitos (apenas municípios); chave para mapas e para municipios_pa", "1501402"),
+    ("cobertura_longa", "territorio", "texto", "Nome do território", "Brasil; Norte; Pará; Belém"),
+    ("cobertura_longa", "sigla_uf", "texto", "Sigla da UF (linhas de UF e município)", "PA"),
+    ("cobertura_longa", "cod_uf", "inteiro", "Código IBGE da UF (linhas de UF e município)", "15"),
+    ("cobertura_longa", "regiao", "texto", "Grande região (linhas de região, UF e município)", "Norte"),
+    ("cobertura_longa", "ano", "inteiro", "Ano de referência da cobertura", "2014 a 2025"),
+    ("cobertura_longa", "periodo", "texto", "Recorte didático do trabalho", "1. Pré-pandemia (2014-2019); 2. Pandemia (2020-2022); 3. Pós-pandemia (2023-2025)"),
+    ("cobertura_longa", "vacina", "texto", "Nome padronizado da vacina (igual nas duas fontes)", "Pentavalente; Poliomielite; Pneumocócica 10V; Tríplice viral D1"),
+    ("cobertura_longa", "dose", "texto", "Dose considerada no indicador", "3ª dose; 2ª dose; 1ª dose"),
+    ("cobertura_longa", "publico_alvo", "texto", "Público-alvo do indicador", "Menores de 1 ano; 1 ano"),
+    ("cobertura_longa", "vacina_obrigatoria", "texto", "Se a vacina é uma das 4 obrigatórias do trabalho (indicador oficial com meta de 95%)", "Sim; Não (complementar)"),
+    ("cobertura_longa", "vacina_fonte", "texto", "Nome da vacina exatamente como aparece na fonte original", "Penta; Penta (DTP/HepB/Hib)"),
+    ("cobertura_longa", "cobertura", "decimal (%)", "Cobertura vacinal = doses aplicadas / população-alvo x 100. Pode passar de 100%. No Tableau use agregação MÉDIA ou ATRIBUTO, nunca SOMA.", "85.40"),
+    ("cobertura_longa", "doses", "inteiro", "Doses aplicadas no ano (somente 2023-2025; o TabNet fornece apenas a porcentagem)", "2167128"),
+    ("cobertura_longa", "populacao", "inteiro", "População-alvo do ano, baseada em nascidos vivos do SINASC (somente 2023-2025)", "2537576"),
+    ("cobertura_longa", "cobertura_valida", "texto", "Sim quando há cobertura numérica maior que zero; Não indica ausência de registro", "Sim; Não"),
+    ("cobertura_longa", "meta_atingida", "texto", "Sim se cobertura >= 95%; vazio se cobertura inválida", "Sim; Não"),
+    ("cobertura_longa", "distancia_meta_pp", "decimal (p.p.)", "Cobertura menos 95, em pontos percentuais (negativo = abaixo da meta)", "-9.60"),
+    ("cobertura_longa", "cobertura_ano_anterior", "decimal (%)", "Cobertura do mesmo território e vacina no ano anterior", "77.24"),
+    ("cobertura_longa", "variacao_anual_pp", "decimal (p.p.)", "Cobertura do ano menos a do ano anterior, em pontos percentuais", "8.16"),
+    ("cobertura_longa", "fonte", "texto", "Fonte do dado", "TabNet/DATASUS (SI-PNI); Painel de Cobertura Vacinal MS (SI-PNI/RNDS)"),
+    ("cobertura_longa", "quebra_serie", "texto", "Marca a mudança do sistema de registro em 2023 (RNDS, vínculo por CPF); comparações entre 2022 e 2023 exigem cautela", "Antes (até 2022); Após mudança para RNDS (2023+)"),
+    ("cobertura_longa", "dado_provisorio", "texto", "Sim para 2025: dados ainda sujeitos a atualização e população-alvo igual à de 2024 (SINASC 2025 preliminar)", "Sim; Não"),
+
+    ("municipios_pa", "cod_ibge7", "texto", "Código IBGE do município (7 dígitos)", "1501402"),
+    ("municipios_pa", "cod_ibge6", "texto", "Código IBGE do município (6 dígitos, usado pelo DATASUS); chave com cobertura_longa.cod_territorio", "150140"),
+    ("municipios_pa", "municipio", "texto", "Nome do município", "Belém"),
+    ("municipios_pa", "mesorregiao", "texto", "Mesorregião geográfica IBGE (divisão de 1989)", "Metropolitana de Belém"),
+    ("municipios_pa", "microrregiao", "texto", "Microrregião geográfica IBGE", "Belém"),
+    ("municipios_pa", "regiao_imediata", "texto", "Região geográfica imediata IBGE (divisão de 2017)", "Belém"),
+    ("municipios_pa", "regiao_intermediaria", "texto", "Região geográfica intermediária IBGE (divisão de 2017)", "Belém"),
+    ("municipios_pa", "idhm_2010", "decimal (0-1)", "Índice de Desenvolvimento Humano Municipal, Censo 2010 (último disponível). Vazio para Mojuí dos Campos, instalado em 2013", "0.746"),
+    ("municipios_pa", "idhm_educacao_2010", "decimal (0-1)", "IDHM dimensão educação, 2010", "0.673"),
+    ("municipios_pa", "idhm_longevidade_2010", "decimal (0-1)", "IDHM dimensão longevidade, 2010", "0.822"),
+    ("municipios_pa", "idhm_renda_2010", "decimal (0-1)", "IDHM dimensão renda, 2010", "0.751"),
+    ("municipios_pa", "faixa_idhm", "texto", "Faixa do IDHM segundo o PNUD", "Muito baixo (<0,5); Baixo (0,5-0,599); Médio (0,6-0,699); Alto (0,7-0,799); Muito alto (>=0,8)"),
+    ("municipios_pa", "nascidos_vivos_2023", "inteiro", "Nascidos vivos por residência da mãe em 2023 (SINASC)", "20147"),
+    ("municipios_pa", "nascidos_vivos_2024", "inteiro", "Nascidos vivos por residência da mãe em 2024 (SINASC)", "19000"),
+    ("municipios_pa", "nascidos_vivos_2025_prelim", "inteiro", "Nascidos vivos 2025, dado preliminar (SINASC)", "19500"),
+    ("municipios_pa", "porte_nascidos_vivos", "texto", "Porte do município pelos nascidos vivos de 2024 (municípios pequenos têm coberturas mais instáveis)", "Até 200; 201-500; 501-1.500; Mais de 1.500"),
+
+    ("indicadores_municipais_vacina", "cod_ibge6", "texto", "Código IBGE do município (6 dígitos)", "150140"),
+    ("indicadores_municipais_vacina", "municipio", "texto", "Nome do município", "Belém"),
+    ("indicadores_municipais_vacina", "vacina", "texto", "Vacina padronizada", "Pentavalente"),
+    ("indicadores_municipais_vacina", "vacina_obrigatoria", "texto", "Se é uma das 4 vacinas obrigatórias", "Sim"),
+    ("indicadores_municipais_vacina", "anos_com_dado", "inteiro", "Número de anos com cobertura válida", "12"),
+    ("indicadores_municipais_vacina", "primeiro_ano / ultimo_ano", "inteiro", "Primeiro e último ano com dado válido", "2014 / 2025"),
+    ("indicadores_municipais_vacina", "anos_na_meta", "inteiro", "Número de anos com cobertura >= 95%", "3"),
+    ("indicadores_municipais_vacina", "anos_abaixo_meta", "inteiro", "PERSISTÊNCIA ABAIXO DA META: número de anos com cobertura < 95%", "9"),
+    ("indicadores_municipais_vacina", "pct_anos_abaixo_meta", "decimal (%)", "anos_abaixo_meta / anos_com_dado x 100", "75.0"),
+    ("indicadores_municipais_vacina", "classificacao_persistencia", "texto", "Classifica a persistência abaixo da meta", "Sempre na meta; Abaixo ocasionalmente; Abaixo na maioria dos anos; Sempre abaixo"),
+    ("indicadores_municipais_vacina", "cobertura_media / minima / maxima", "decimal (%)", "Estatísticas da cobertura no período com dado", "82.3"),
+    ("indicadores_municipais_vacina", "var_AAAA_BBBB_pp", "decimal (p.p.)", "VARIAÇÃO DA COBERTURA: cobertura em BBBB menos cobertura em AAAA. Recortes: 2014-2019 (pré-pandemia), 2019-2022 (pandemia), 2022-2024 (recuperação), 2014-2024 (período todo), 2023-2025 (painel novo)", "-12.4"),
+
+    ("indicadores_municipais_ano", "cod_ibge6", "texto", "Código IBGE do município (6 dígitos)", "150140"),
+    ("indicadores_municipais_ano", "municipio", "texto", "Nome do município", "Belém"),
+    ("indicadores_municipais_ano", "ano", "inteiro", "Ano", "2024"),
+    ("indicadores_municipais_ano", "periodo", "texto", "Recorte didático", "3. Pós-pandemia (2023-2025)"),
+    ("indicadores_municipais_ano", "vacinas_obrigatorias_com_dado", "inteiro", "Quantas das 4 vacinas obrigatórias têm dado válido no ano", "4"),
+    ("indicadores_municipais_ano", "n_vacinas_na_meta", "inteiro", "NÚMERO DE VACINAS NA META: quantas das 4 obrigatórias atingiram >= 95% (0 a 4)", "2"),
+    ("indicadores_municipais_ano", "classe_vacinas_na_meta", "texto", "Rótulo 'X de Y'", "2 de 4"),
+    ("indicadores_municipais_ano", "todas_4_na_meta", "texto", "Sim se as 4 vacinas obrigatórias atingiram a meta", "Sim; Não"),
+
+    ("proporcao_municipios_meta", "ano", "inteiro", "Ano", "2024"),
+    ("proporcao_municipios_meta", "vacina", "texto", "Vacina padronizada", "Pentavalente"),
+    ("proporcao_municipios_meta", "vacina_obrigatoria", "texto", "Se é uma das 4 vacinas obrigatórias", "Sim"),
+    ("proporcao_municipios_meta", "municipios_com_dado", "inteiro", "Municípios do Pará com cobertura válida", "144"),
+    ("proporcao_municipios_meta", "municipios_na_meta", "inteiro", "Municípios do Pará com cobertura >= 95%", "41"),
+    ("proporcao_municipios_meta", "pct_municipios_na_meta", "decimal (%)", "PROPORÇÃO DE MUNICÍPIOS NA META = municípios_na_meta / municípios_com_dado x 100", "28.5"),
+    ("proporcao_municipios_meta", "periodo", "texto", "Recorte didático", "2. Pandemia (2020-2022)"),
+]
+
+saida = os.path.join(sys.argv[1], "base_tableau", "dicionario_variaveis.csv")
+with open(saida, "w", newline="", encoding="utf-8-sig") as fh:
+    w = csv.writer(fh)
+    w.writerow(["tabela", "variavel", "tipo", "descricao", "valores_exemplo"])
+    w.writerows(D)
+print(saida, len(D), "variáveis")

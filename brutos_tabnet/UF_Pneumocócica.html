@@ -1,0 +1,306 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang='pt-BR'>
+<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=iso-8859-1'>
+<title>TabnetBD 1.0 -   Imunizações - Cobertura - Brasil </title>
+<body><center>
+</center>
+
+<link rel="stylesheet" href="CITO/tabnet2.min.css" type="text/css">
+
+        <div name="governo" class="todalargura">
+
+                    <div class="Escondido" style="background-color: #ffcc00;">
+
+                       <div>
+
+                           <a href="http://www.saude.gov.br" target="_blank">
+
+                               <img alt="Ministério da Saúde" src="http://www.datasus.gov.br/gifs/principal_r1_c1_res.gif" height="21" id="img1" />
+
+                           </a>
+
+                       </div>
+
+                   </div>
+
+               <div class="testeira" cellspacing="0" cellpadding="0">
+
+                   <div class="info_saude">
+
+                       <a href="/tabnet/tabnet.htm" alt="Informações de Saúde" title="Informações de Saúde">Informa&ccedil;&otilde;es de Sa&uacute;de</a>
+
+                   </div>
+
+                   <div class="marca_tabnet">
+
+                       <p>DATASUS<span>&nbsp;&nbsp;Tecnologia da Informa&ccedil;&atilde;o a Servi&ccedil;o do SUS<a href="http://www.datasus.gov.br" alt="MS/SE/Datasus" title="MS/SE/Datasus"></a></span></p>
+
+                   </div>
+
+                   <div class="ajuda">
+
+                       <a href="/tabnet/tabdescr.htm">Ajuda</a>
+
+                   </div>
+
+                   <div class="notific">
+
+                       <a href="bd_pni/Imun_cobertura_desde_1994.pdf">Notas T&eacute;cnicas</a></p>
+
+                   </div> 
+
+                   <div class="datasus">
+
+                       <p>DATASUS</p>
+
+                   </div>
+
+               </div>
+
+           </div>  
+
+<center>
+
+<H2>  Imunizações - Cobertura - Brasil </H2>
+<h3>Pneumocócica por Ano segundo Unidade da Federação</h3>
+<b>Ano:</b> 2014-2022
+<p>
+<p>
+<!--
+select
+    case
+    when  CO_UF = '11' then '#   111 Rondônia'
+    when  CO_UF = '12' then '#   212 Acre'
+    when  CO_UF = '13' then '#   313 Amazonas'
+    when  CO_UF = '14' then '#   414 Roraima'
+    when  CO_UF = '15' then '#   515 Pará'
+    when  CO_UF = '16' then '#   616 Amapá'
+    when  CO_UF = '17' then '#   717 Tocantins'
+    when  CO_UF = '21' then '#   821 Maranhão'
+    when  CO_UF = '22' then '#   922 Piauí'
+    when  CO_UF = '23' then '#  1023 Ceará'
+    when  CO_UF = '24' then '#  1124 Rio Grande do Norte'
+    when  CO_UF = '25' then '#  1225 Paraíba'
+    when  CO_UF in('26','20') then '#  1326 Pernambuco'
+    when  CO_UF = '27' then '#  1427 Alagoas'
+    when  CO_UF = '28' then '#  1528 Sergipe'
+    when  CO_UF = '29' then '#  1629 Bahia'
+    when  CO_UF = '31' then '#  1731 Minas Gerais'
+    when  CO_UF = '32' then '#  1832 Espírito Santo'
+    when  CO_UF = '33' then '#  1933 Rio de Janeiro'
+    when  CO_UF = '35' then '#  2035 São Paulo'
+    when  CO_UF = '41' then '#  2141 Paraná'
+    when  CO_UF = '42' then '#  2242 Santa Catarina'
+    when  CO_UF = '43' then '#  2343 Rio Grande do Sul'
+    when  CO_UF = '50' then '#  2450 Mato Grosso do Sul'
+    when  CO_UF = '51' then '#  2551 Mato Grosso'
+    when  CO_UF = '52' then '#  2652 Goiás'
+    when  CO_UF = '53' then '#  2753 Distrito Federal'
+    when  CO_UF = '00' then '#  2800 Ignorado/exterior'
+else 'Ignorado' end as "Unidade da Federação",
+  case
+    when  CO_ANO = '1994' then '#   11994'
+    when  CO_ANO = '1995' then '#   21995'
+    when  CO_ANO = '1996' then '#   31996'
+    when  CO_ANO = '1997' then '#   41997'
+    when  CO_ANO = '1998' then '#   51998'
+    when  CO_ANO = '1999' then '#   61999'
+    when  CO_ANO = '2000' then '#   72000'
+    when  CO_ANO = '2001' then '#   82001'
+    when  CO_ANO = '2002' then '#   92002'
+    when  CO_ANO = '2003' then '#  102003'
+    when  CO_ANO = '2004' then '#  112004'
+    when  CO_ANO = '2005' then '#  122005'
+    when  CO_ANO = '2006' then '#  132006'
+    when  CO_ANO = '2007' then '#  142007'
+    when  CO_ANO = '2008' then '#  152008'
+    when  CO_ANO = '2009' then '#  162009'
+    when  CO_ANO = '2010' then '#  172010'
+    when  CO_ANO = '2011' then '#  182011'
+    when  CO_ANO = '2012' then '#  192012'
+    when  CO_ANO = '2013' then '#  202013'
+    when  CO_ANO = '2014' then '#  212014'
+    when  CO_ANO = '2015' then '#  222015'
+    when  CO_ANO = '2016' then '#  232016'
+    when  CO_ANO = '2017' then '#  242017'
+    when  CO_ANO = '2018' then '#  252018'
+    when  CO_ANO = '2019' then '#  262019'
+    when  CO_ANO = '2020' then '#  272020'
+    when  CO_ANO = '2021' then '#  282021'
+    when  CO_ANO = '2022' then '#  292022'
+else 'Ignorado' end as "Ano",
+   case when sum(case when FATO.CO_IMUNO = '012' then NU_POPULACAO end)  > 0 then sum(case when FATO.CO_IMUNO = '012' then QT_DOSE end)* 100/sum(case when FATO.CO_IMUNO = '012' then NU_POPULACAO end) else 0 end as "Pneumocócica"
+from tb_tbn_pni_cobertura_vacinal fato
+where (fato.CO_ANO < '2023')
+  and (CO_ANO between 2014 and 2022)
+group by cube(  case
+    when  CO_UF = '11' then '#   111 Rondônia'
+    when  CO_UF = '12' then '#   212 Acre'
+    when  CO_UF = '13' then '#   313 Amazonas'
+    when  CO_UF = '14' then '#   414 Roraima'
+    when  CO_UF = '15' then '#   515 Pará'
+    when  CO_UF = '16' then '#   616 Amapá'
+    when  CO_UF = '17' then '#   717 Tocantins'
+    when  CO_UF = '21' then '#   821 Maranhão'
+    when  CO_UF = '22' then '#   922 Piauí'
+    when  CO_UF = '23' then '#  1023 Ceará'
+    when  CO_UF = '24' then '#  1124 Rio Grande do Norte'
+    when  CO_UF = '25' then '#  1225 Paraíba'
+    when  CO_UF in('26','20') then '#  1326 Pernambuco'
+    when  CO_UF = '27' then '#  1427 Alagoas'
+    when  CO_UF = '28' then '#  1528 Sergipe'
+    when  CO_UF = '29' then '#  1629 Bahia'
+    when  CO_UF = '31' then '#  1731 Minas Gerais'
+    when  CO_UF = '32' then '#  1832 Espírito Santo'
+    when  CO_UF = '33' then '#  1933 Rio de Janeiro'
+    when  CO_UF = '35' then '#  2035 São Paulo'
+    when  CO_UF = '41' then '#  2141 Paraná'
+    when  CO_UF = '42' then '#  2242 Santa Catarina'
+    when  CO_UF = '43' then '#  2343 Rio Grande do Sul'
+    when  CO_UF = '50' then '#  2450 Mato Grosso do Sul'
+    when  CO_UF = '51' then '#  2551 Mato Grosso'
+    when  CO_UF = '52' then '#  2652 Goiás'
+    when  CO_UF = '53' then '#  2753 Distrito Federal'
+    when  CO_UF = '00' then '#  2800 Ignorado/exterior'
+else 'Ignorado' end,
+  case
+    when  CO_ANO = '1994' then '#   11994'
+    when  CO_ANO = '1995' then '#   21995'
+    when  CO_ANO = '1996' then '#   31996'
+    when  CO_ANO = '1997' then '#   41997'
+    when  CO_ANO = '1998' then '#   51998'
+    when  CO_ANO = '1999' then '#   61999'
+    when  CO_ANO = '2000' then '#   72000'
+    when  CO_ANO = '2001' then '#   82001'
+    when  CO_ANO = '2002' then '#   92002'
+    when  CO_ANO = '2003' then '#  102003'
+    when  CO_ANO = '2004' then '#  112004'
+    when  CO_ANO = '2005' then '#  122005'
+    when  CO_ANO = '2006' then '#  132006'
+    when  CO_ANO = '2007' then '#  142007'
+    when  CO_ANO = '2008' then '#  152008'
+    when  CO_ANO = '2009' then '#  162009'
+    when  CO_ANO = '2010' then '#  172010'
+    when  CO_ANO = '2011' then '#  182011'
+    when  CO_ANO = '2012' then '#  192012'
+    when  CO_ANO = '2013' then '#  202013'
+    when  CO_ANO = '2014' then '#  212014'
+    when  CO_ANO = '2015' then '#  222015'
+    when  CO_ANO = '2016' then '#  232016'
+    when  CO_ANO = '2017' then '#  242017'
+    when  CO_ANO = '2018' then '#  252018'
+    when  CO_ANO = '2019' then '#  262019'
+    when  CO_ANO = '2020' then '#  272020'
+    when  CO_ANO = '2021' then '#  282021'
+    when  CO_ANO = '2022' then '#  292022'
+else 'Ignorado' end)
+having  case when sum(case when FATO.CO_IMUNO = '012' then NU_POPULACAO end)  > 0 then sum(case when FATO.CO_IMUNO = '012' then QT_DOSE end)* 100/sum(case when FATO.CO_IMUNO = '012' then NU_POPULACAO end) else 0 end > 0 
+order by 1,2 
+
+ -->
+<!-- connect OK -->
+<!-- execute OK -->
+<!-- fetch   OK -->
+
+<!-- Tempo SQL execute() + fetchall() =  1.12599992752  segundos -->
+<!-- Google Chart tables-->
+<script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      function drawTable() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string','Unidade da Federação');
+        data.addColumn('number','2014');
+        data.addColumn('number','2015');
+        data.addColumn('number','2016');
+        data.addColumn('number','2017');
+        data.addColumn('number','2018');
+        data.addColumn('number','2019');
+        data.addColumn('number','2020');
+        data.addColumn('number','2021');
+        data.addColumn('number','2022');
+        data.addColumn('number',' Total');
+        data.addRows([
+           [" Total" ,{v: 93.4454826473 ,f: '93,45'} ,{v: 94.225546779 ,f: '94,23'} ,{v: 94.9970585557 ,f: '95,00'} ,{v: 92.149318614 ,f: '92,15'} ,{v: 95.252207638 ,f: '95,25'} ,{v: 89.0735609167 ,f: '89,07'} ,{v: 82.037177412 ,f: '82,04'} ,{v: 74.8417337195 ,f: '74,84'} ,{v: 81.5130012037 ,f: '81,51'} ,{v: 88.7016023361 ,f: '88,70'} ]
+         , ["11 Rondônia" ,{v: 103.915503584 ,f: '103,92'} ,{v: 104.68160639 ,f: '104,68'} ,{v: 104.217632754 ,f: '104,22'} ,{v: 107.676672353 ,f: '107,68'} ,{v: 103.213304737 ,f: '103,21'} ,{v: 102.439733847 ,f: '102,44'} ,{v: 89.6520379595 ,f: '89,65'} ,{v: 79.2836792837 ,f: '79,28'} ,{v: 88.4642220327 ,f: '88,46'} ,{v: 98.2247327842 ,f: '98,22'} ]
+         , ["12 Acre" ,{v: 60.9039683491 ,f: '60,90'} ,{v: 72.4772259771 ,f: '72,48'} ,{v: 84.9803760764 ,f: '84,98'} ,{v: 84.6581922559 ,f: '84,66'} ,{v: 89.6409278678 ,f: '89,64'} ,{v: 91.5331947671 ,f: '91,53'} ,{v: 73.6642621347 ,f: '73,66'} ,{v: 70.3378378378 ,f: '70,34'} ,{v: 79.2233522652 ,f: '79,22'} ,{v: 78.5487976603 ,f: '78,55'} ]
+         , ["13 Amazonas" ,{v: 78.2995825849 ,f: '78,30'} ,{v: 84.5369583687 ,f: '84,54'} ,{v: 88.3622131117 ,f: '88,36'} ,{v: 86.7210820318 ,f: '86,72'} ,{v: 90.0411242371 ,f: '90,04'} ,{v: 92.5123960589 ,f: '92,51'} ,{v: 83.1746723212 ,f: '83,17'} ,{v: 76.9604432419 ,f: '76,96'} ,{v: 86.8680053973 ,f: '86,87'} ,{v: 85.2864068698 ,f: '85,29'} ]
+         , ["14 Roraima" ,{v: 81.1208604585 ,f: '81,12'} ,{v: 89.8556090337 ,f: '89,86'} ,{v: 100.63952441 ,f: '100,64'} ,{v: 99.837867051 ,f: '99,84'} ,{v: 93.2714826157 ,f: '93,27'} ,{v: 90.2615659879 ,f: '90,26'} ,{v: 87.2199028713 ,f: '87,22'} ,{v: 59.0834473324 ,f: '59,08'} ,{v: 68.2680427357 ,f: '68,27'} ,{v: 84.2514217076 ,f: '84,25'} ]
+         , ["15 Pará" ,{v: 70.3257785229 ,f: '70,33'} ,{v: 60.3553573355 ,f: '60,36'} ,{v: 75.7220027638 ,f: '75,72'} ,{v: 76.8002180812 ,f: '76,80'} ,{v: 78.8265751353 ,f: '78,83'} ,{v: 82.1361099494 ,f: '82,14'} ,{v: 69.4581849122 ,f: '69,46'} ,{v: 63.3744885715 ,f: '63,37'} ,{v: 73.5912499906 ,f: '73,59'} ,{v: 72.3048057843 ,f: '72,30'} ]
+         , ["16 Amapá" ,{v: 67.7818084106 ,f: '67,78'} ,{v: 69.1787809232 ,f: '69,18'} ,{v: 103.852080123 ,f: '103,85'} ,{v: 72.6471494607 ,f: '72,65'} ,{v: 78.4682826199 ,f: '78,47'} ,{v: 84.9016169881 ,f: '84,90'} ,{v: 50.0551983895 ,f: '50,06'} ,{v: 52.559260224 ,f: '52,56'} ,{v: 57.9580400465 ,f: '57,96'} ,{v: 71.1195170795 ,f: '71,12'} ]
+         , ["17 Tocantins" ,{v: 90.6399901603 ,f: '90,64'} ,{v: 93.9219184334 ,f: '93,92'} ,{v: 97.3055332799 ,f: '97,31'} ,{v: 93.1716118685 ,f: '93,17'} ,{v: 100.708061002 ,f: '100,71'} ,{v: 94.0197336756 ,f: '94,02'} ,{v: 89.4994384726 ,f: '89,50'} ,{v: 85.1679142635 ,f: '85,17'} ,{v: 92.1400876601 ,f: '92,14'} ,{v: 92.9390187987 ,f: '92,94'} ]
+         , ["21 Maranhão" ,{v: 81.3975342702 ,f: '81,40'} ,{v: 84.0502729953 ,f: '84,05'} ,{v: 80.7424018076 ,f: '80,74'} ,{v: 83.859565035 ,f: '83,86'} ,{v: 89.4301503896 ,f: '89,43'} ,{v: 84.1309600729 ,f: '84,13'} ,{v: 68.3743284269 ,f: '68,37'} ,{v: 68.177285123 ,f: '68,18'} ,{v: 78.0255107332 ,f: '78,03'} ,{v: 79.8129880926 ,f: '79,81'} ]
+         , ["22 Piauí" ,{v: 81.8111681054 ,f: '81,81'} ,{v: 82.3762632248 ,f: '82,38'} ,{v: 82.4938946753 ,f: '82,49'} ,{v: 85.4620217496 ,f: '85,46'} ,{v: 88.8096859307 ,f: '88,81'} ,{v: 86.735597619 ,f: '86,74'} ,{v: 79.6070111841 ,f: '79,61'} ,{v: 76.0843712837 ,f: '76,08'} ,{v: 89.5058043118 ,f: '89,51'} ,{v: 83.6086552701 ,f: '83,61'} ]
+         , ["23 Ceará" ,{v: 98.3698436847 ,f: '98,37'} ,{v: 106.342853484 ,f: '106,34'} ,{v: 119.746941759 ,f: '119,75'} ,{v: 109.360199709 ,f: '109,36'} ,{v: 120.58849189 ,f: '120,59'} ,{v: 98.8466082928 ,f: '98,85'} ,{v: 95.2510622315 ,f: '95,25'} ,{v: 77.5322212331 ,f: '77,53'} ,{v: 87.9889093057 ,f: '87,99'} ,{v: 101.579446611 ,f: '101,58'} ]
+         , ["24 Rio Grande do Norte" ,{v: 85.6683763594 ,f: '85,67'} ,{v: 89.0206571765 ,f: '89,02'} ,{v: 84.4245763593 ,f: '84,42'} ,{v: 76.7335481859 ,f: '76,73'} ,{v: 94.5249277855 ,f: '94,52'} ,{v: 89.3189390334 ,f: '89,32'} ,{v: 78.2917225564 ,f: '78,29'} ,{v: 76.9571438305 ,f: '76,96'} ,{v: 82.1322735522 ,f: '82,13'} ,{v: 84.1247058994 ,f: '84,12'} ]
+         , ["25 Paraíba" ,{v: 89.9584243535 ,f: '89,96'} ,{v: 92.0541919592 ,f: '92,05'} ,{v: 93.5239916551 ,f: '93,52'} ,{v: 91.1196105702 ,f: '91,12'} ,{v: 100.711407481 ,f: '100,71'} ,{v: 99.9043361801 ,f: '99,90'} ,{v: 81.4707877481 ,f: '81,47'} ,{v: 74.8375244796 ,f: '74,84'} ,{v: 76.4256194682 ,f: '76,43'} ,{v: 88.8732967296 ,f: '88,87'} ]
+         , ["26 Pernambuco" ,{v: 94.5808103673 ,f: '94,58'} ,{v: 101.072820237 ,f: '101,07'} ,{v: 100.132450331 ,f: '100,13'} ,{v: 91.7783199721 ,f: '91,78'} ,{v: 101.484144895 ,f: '101,48'} ,{v: 90.1402439922 ,f: '90,14'} ,{v: 78.3960973025 ,f: '78,40'} ,{v: 72.3621255981 ,f: '72,36'} ,{v: 80.4304506889 ,f: '80,43'} ,{v: 90.2299325615 ,f: '90,23'} ]
+         , ["27 Alagoas" ,{v: 87.8154701815 ,f: '87,82'} ,{v: 88.2894210436 ,f: '88,29'} ,{v: 94.3672854411 ,f: '94,37'} ,{v: 92.9745600649 ,f: '92,97'} ,{v: 104.326613657 ,f: '104,33'} ,{v: 94.7327668361 ,f: '94,73'} ,{v: 80.938294155 ,f: '80,94'} ,{v: 83.0451980804 ,f: '83,05'} ,{v: 90.9000641278 ,f: '90,90'} ,{v: 90.7567765712 ,f: '90,76'} ]
+         , ["28 Sergipe" ,{v: 93.2449865134 ,f: '93,24'} ,{v: 92.9381172208 ,f: '92,94'} ,{v: 87.7087819356 ,f: '87,71'} ,{v: 87.1937379969 ,f: '87,19'} ,{v: 96.9395989819 ,f: '96,94'} ,{v: 84.7284967668 ,f: '84,73'} ,{v: 74.5327309771 ,f: '74,53'} ,{v: 76.5330152613 ,f: '76,53'} ,{v: 83.3406745532 ,f: '83,34'} ,{v: 86.3691090186 ,f: '86,37'} ]
+         , ["29 Bahia" ,{v: 87.9106958315 ,f: '87,91'} ,{v: 90.2403237798 ,f: '90,24'} ,{v: 79.5790743756 ,f: '79,58'} ,{v: 85.6099546801 ,f: '85,61'} ,{v: 84.1954225175 ,f: '84,20'} ,{v: 79.5586174456 ,f: '79,56'} ,{v: 77.5614201856 ,f: '77,56'} ,{v: 66.6031259981 ,f: '66,60'} ,{v: 80.2032176122 ,f: '80,20'} ,{v: 81.3459133294 ,f: '81,35'} ]
+         , ["31 Minas Gerais" ,{v: 97.9080705752 ,f: '97,91'} ,{v: 100.888357756 ,f: '100,89'} ,{v: 95.7124856558 ,f: '95,71'} ,{v: 92.737138957 ,f: '92,74'} ,{v: 102.169796434 ,f: '102,17'} ,{v: 91.8802714623 ,f: '91,88'} ,{v: 89.466623739 ,f: '89,47'} ,{v: 78.1594652569 ,f: '78,16'} ,{v: 85.7325479789 ,f: '85,73'} ,{v: 92.7725382277 ,f: '92,77'} ]
+         , ["32 Espírito Santo" ,{v: 99.6119261713 ,f: '99,61'} ,{v: 99.931595489 ,f: '99,93'} ,{v: 95.6383204702 ,f: '95,64'} ,{v: 90.1490476528 ,f: '90,15'} ,{v: 96.3152967609 ,f: '96,32'} ,{v: 91.7612720696 ,f: '91,76'} ,{v: 86.281918132 ,f: '86,28'} ,{v: 80.7847064178 ,f: '80,78'} ,{v: 83.8169103151 ,f: '83,82'} ,{v: 91.5420950714 ,f: '91,54'} ]
+         , ["33 Rio de Janeiro" ,{v: 88.7363068873 ,f: '88,74'} ,{v: 94.0981189402 ,f: '94,10'} ,{v: 107.625013917 ,f: '107,63'} ,{v: 97.2123973383 ,f: '97,21'} ,{v: 94.1151765538 ,f: '94,12'} ,{v: 78.3967099133 ,f: '78,40'} ,{v: 61.5390473801 ,f: '61,54'} ,{v: 58.8096131098 ,f: '58,81'} ,{v: 63.1490131083 ,f: '63,15'} ,{v: 83.2343707206 ,f: '83,23'} ]
+         , ["35 São Paulo" ,{v: 100.63429096 ,f: '100,63'} ,{v: 99.9283060252 ,f: '99,93'} ,{v: 93.576966909 ,f: '93,58'} ,{v: 95.8522406691 ,f: '95,85'} ,{v: 95.9543283289 ,f: '95,95'} ,{v: 89.8059490224 ,f: '89,81'} ,{v: 84.552417628 ,f: '84,55'} ,{v: 76.6270621743 ,f: '76,63'} ,{v: 79.0375642532 ,f: '79,04'} ,{v: 90.8809259142 ,f: '90,88'} ]
+         , ["41 Paraná" ,{v: 99.7245751702 ,f: '99,72'} ,{v: 101.219324267 ,f: '101,22'} ,{v: 95.2198087423 ,f: '95,22'} ,{v: 95.0596976653 ,f: '95,06'} ,{v: 94.4781991744 ,f: '94,48'} ,{v: 92.3833017318 ,f: '92,38'} ,{v: 90.0851654798 ,f: '90,09'} ,{v: 84.2959476988 ,f: '84,30'} ,{v: 88.733260874 ,f: '88,73'} ,{v: 93.5089218476 ,f: '93,51'} ]
+         , ["42 Santa Catarina" ,{v: 100.216296597 ,f: '100,22'} ,{v: 106.089154668 ,f: '106,09'} ,{v: 103.018171616 ,f: '103,02'} ,{v: 95.4258028315 ,f: '95,43'} ,{v: 93.1013860181 ,f: '93,10'} ,{v: 97.8776415075 ,f: '97,88'} ,{v: 94.1698700348 ,f: '94,17'} ,{v: 87.4832957594 ,f: '87,48'} ,{v: 93.174622628 ,f: '93,17'} ,{v: 96.5803035817 ,f: '96,58'} ]
+         , ["43 Rio Grande do Sul" ,{v: 94.3889852527 ,f: '94,39'} ,{v: 90.5221520107 ,f: '90,52'} ,{v: 94.2972969201 ,f: '94,30'} ,{v: 91.2718569894 ,f: '91,27'} ,{v: 91.6770994688 ,f: '91,68'} ,{v: 89.6417269439 ,f: '89,64'} ,{v: 89.2228469711 ,f: '89,22'} ,{v: 80.9630301049 ,f: '80,96'} ,{v: 84.4937629142 ,f: '84,49'} ,{v: 89.6994379631 ,f: '89,70'} ]
+         , ["50 Mato Grosso do Sul" ,{v: 125.869904843 ,f: '125,87'} ,{v: 117.247168428 ,f: '117,25'} ,{v: 103.299123564 ,f: '103,30'} ,{v: 99.3347259434 ,f: '99,33'} ,{v: 101.954266855 ,f: '101,95'} ,{v: 98.1652401278 ,f: '98,17'} ,{v: 87.9768476099 ,f: '87,98'} ,{v: 79.5697448221 ,f: '79,57'} ,{v: 92.3937251864 ,f: '92,39'} ,{v: 100.498539295 ,f: '100,50'} ]
+         , ["51 Mato Grosso" ,{v: 95.4988878917 ,f: '95,50'} ,{v: 97.5348723079 ,f: '97,53'} ,{v: 99.6405934634 ,f: '99,64'} ,{v: 91.1936546156 ,f: '91,19'} ,{v: 97.5013082156 ,f: '97,50'} ,{v: 90.582873507 ,f: '90,58'} ,{v: 89.4461130125 ,f: '89,45'} ,{v: 81.5333378645 ,f: '81,53'} ,{v: 92.5275264745 ,f: '92,53'} ,{v: 92.6777336774 ,f: '92,68'} ]
+         , ["52 Goiás" ,{v: 93.1260457334 ,f: '93,13'} ,{v: 89.8829193104 ,f: '89,88'} ,{v: 91.7793108981 ,f: '91,78'} ,{v: 88.2265051542 ,f: '88,23'} ,{v: 91.7476134651 ,f: '91,75'} ,{v: 86.992770343 ,f: '86,99'} ,{v: 84.6505665795 ,f: '84,65'} ,{v: 77.8301494152 ,f: '77,83'} ,{v: 83.7539211142 ,f: '83,75'} ,{v: 87.5589205003 ,f: '87,56'} ]
+         , ["53 Distrito Federal" ,{v: 102.409361565 ,f: '102,41'} ,{v: 69.9072097778 ,f: '69,91'} ,{v: 140.733192995 ,f: '140,73'} ,{v: 89.3066690554 ,f: '89,31'} ,{v: 91.4464421723 ,f: '91,45'} ,{v: 88.0631843475 ,f: '88,06'} ,{v: 85.675821217 ,f: '85,68'} ,{v: 78.5040780727 ,f: '78,50'} ,{v: 84.4490739565 ,f: '84,45'} ,{v: 92.4450914292 ,f: '92,45'} ]
+        ]);
+
+
+        var table = new google.visualization.Table(document.getElementById('table_div'));
+        var cssClasses = {headerCell: 'google-visualization-table-th cabecColuna'};
+         table.draw(data,{allowHtml: true,showRowNumber: false, frozenColumns: 1, cssClassNames: cssClasses})
+      }
+    </script>
+
+<div id='table_div' style='width: 100%; height: 100%'></div>
+
+<DIV CLASS="nivel2">
+<br/>
+<table class="escondido">
+<tr>
+<td><A HREF=csv/cpnibr17941077892.xlsx>Copia para Excel</A></td>
+<td><A HREF=csv/cpnibr17941077892.csv>Salva como CSV</A></td>
+<td><A HREF=csv/cpnibr17941077892.tab>Copia para TabWin</A></td>
+</tr></table>
+</DIV>
+<p>
+<p>
+</div>
+
+<div class="container">
+
+<link rel="stylesheet" href="CITO/tabnetbds.css" type="text/css">
+
+ <div align="left" style="width: 750px; height: 100%" ><strong>Fonte:</strong> <a href="http://pni.datasus.gov.br/" target="_blank">Sistema de Informação do Programa Nacional de Imunizações (SI-PNI/CGPNI/DEIDT/SVS/MS)</a></div><br><br>
+
+ <div align="left" style="width: 750px; height: 100%" ><strong>Notas:</strong></div>
+
+<div align="left" style="width: 750px; height: 100%" ><ul></div>
+
+<div align="left" style="width: 750px; height: 100%" ><li>Não considerar na extração dos dados do TABNET Cobertura Vacinal a coluna e linha com o TOTAL.</li></div>
+
+<div align="left" style="width: 750px; height: 100%" ><li>As bases de dados disponíveis envolvem as vacinações a partir de 1994 até 2022.</li></div>
+
+<div align="left" style="width: 750px; height: 100%" ><li>Os dados a partir de 2023 encontram-se disponíveis nos painéis de <a href="https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_VACINACAO_CALENDARIO_NACIONAL_MENU_COBERTURA/SEIDIGI_DEMAS_VACINACAO_CALENDARIO_NACIONAL_MENU_COBERTURA.html" target="_blank">COBERTURA VACINAL.</a></li></div>
+
+<div align="left" style="width: 750px; height: 100%" ><li>Última atualização dos dados: maio de 2023.</div>
+
+ </li>
+
+</ul>
+
+ <BR>
+
+ <p>
+
+ <p>
+
+</center>
+</body></html>

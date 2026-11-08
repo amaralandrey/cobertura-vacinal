@@ -1,0 +1,397 @@
+nivel,territorio,sigla,cod_uf,regiao,vacina_painel,ano,doses,populacao,cobertura
+UF,Rondônia,RO,11,Norte,Penta (DTP/HepB/Hib),2023,21634.0,23918.0,90.45
+UF,Acre,AC,12,Norte,Penta (DTP/HepB/Hib),2023,10769.0,14473.0,74.41
+UF,Amazonas,AM,13,Norte,Penta (DTP/HepB/Hib),2023,56286.0,70441.0,79.91
+UF,Roraima,RR,14,Norte,Penta (DTP/HepB/Hib),2023,9325.0,13103.0,71.17
+UF,Pará,PA,15,Norte,Penta (DTP/HepB/Hib),2023,92387.0,126150.0,73.24
+UF,Amapá,AP,16,Norte,Penta (DTP/HepB/Hib),2023,8287.0,12948.0,64.0
+UF,Tocantins,TO,17,Norte,Penta (DTP/HepB/Hib),2023,20224.0,23145.0,87.38
+UF,Maranhão,MA,21,Nordeste,Penta (DTP/HepB/Hib),2023,80902.0,97199.0,83.23
+UF,Piauí,PI,22,Nordeste,Penta (DTP/HepB/Hib),2023,38421.0,42143.0,91.17
+UF,Ceará,CE,23,Nordeste,Penta (DTP/HepB/Hib),2023,102487.0,111091.0,92.25
+UF,Rio Grande do Norte,RN,24,Nordeste,Penta (DTP/HepB/Hib),2023,32519.0,39440.0,82.45
+UF,Paraíba,PB,25,Nordeste,Penta (DTP/HepB/Hib),2023,43366.0,51531.0,84.16
+UF,Pernambuco,PE,26,Nordeste,Penta (DTP/HepB/Hib),2023,98330.0,116161.0,84.65
+UF,Alagoas,AL,27,Nordeste,Penta (DTP/HepB/Hib),2023,41676.0,46542.0,89.54
+UF,Sergipe,SE,28,Nordeste,Penta (DTP/HepB/Hib),2023,24859.0,29005.0,85.71
+UF,Bahia,BA,29,Nordeste,Penta (DTP/HepB/Hib),2023,146829.0,170312.0,86.21
+UF,Minas Gerais,MG,31,Sudeste,Penta (DTP/HepB/Hib),2023,207147.0,233916.0,88.56
+UF,Espírito Santo,ES,32,Sudeste,Penta (DTP/HepB/Hib),2023,44831.0,52187.0,85.9
+UF,Rio de Janeiro,RJ,33,Sudeste,Penta (DTP/HepB/Hib),2023,127279.0,176137.0,72.26
+UF,São Paulo,SP,35,Sudeste,Penta (DTP/HepB/Hib),2023,446824.0,503903.0,88.67
+UF,Paraná,PR,41,Sul,Penta (DTP/HepB/Hib),2023,128471.0,139833.0,91.87
+UF,Santa Catarina,SC,42,Sul,Penta (DTP/HepB/Hib),2023,88027.0,96802.0,90.94
+UF,Rio Grande do Sul,RS,43,Sul,Penta (DTP/HepB/Hib),2023,106463.0,120974.0,88.0
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Penta (DTP/HepB/Hib),2023,35687.0,40233.0,88.7
+UF,Mato Grosso,MT,51,Centro-Oeste,Penta (DTP/HepB/Hib),2023,50839.0,58553.0,86.83
+UF,Goiás,GO,52,Centro-Oeste,Penta (DTP/HepB/Hib),2023,72867.0,91820.0,79.36
+UF,Distrito Federal,DF,53,Centro-Oeste,Penta (DTP/HepB/Hib),2023,30392.0,35551.0,85.49
+UF,Rondônia,RO,11,Norte,Penta (DTP/HepB/Hib),2024,20717.0,21716.0,95.4
+UF,Acre,AC,12,Norte,Penta (DTP/HepB/Hib),2024,11152.0,13101.0,85.12
+UF,Amazonas,AM,13,Norte,Penta (DTP/HepB/Hib),2024,58321.0,65941.0,88.44
+UF,Roraima,RR,14,Norte,Penta (DTP/HepB/Hib),2024,9499.0,12089.0,78.58
+UF,Pará,PA,15,Norte,Penta (DTP/HepB/Hib),2024,96999.0,118566.0,81.81
+UF,Amapá,AP,16,Norte,Penta (DTP/HepB/Hib),2024,8909.0,12327.0,72.27
+UF,Tocantins,TO,17,Norte,Penta (DTP/HepB/Hib),2024,20311.0,21920.0,92.66
+UF,Maranhão,MA,21,Nordeste,Penta (DTP/HepB/Hib),2024,80821.0,92173.0,87.68
+UF,Piauí,PI,22,Nordeste,Penta (DTP/HepB/Hib),2024,38481.0,39696.0,96.94
+UF,Ceará,CE,23,Nordeste,Penta (DTP/HepB/Hib),2024,101132.0,105453.0,95.9
+UF,Rio Grande do Norte,RN,24,Nordeste,Penta (DTP/HepB/Hib),2024,33186.0,36612.0,90.64
+UF,Paraíba,PB,25,Nordeste,Penta (DTP/HepB/Hib),2024,42975.0,49376.0,87.04
+UF,Pernambuco,PE,26,Nordeste,Penta (DTP/HepB/Hib),2024,99940.0,110824.0,90.18
+UF,Alagoas,AL,27,Nordeste,Penta (DTP/HepB/Hib),2024,41423.0,45435.0,91.17
+UF,Sergipe,SE,28,Nordeste,Penta (DTP/HepB/Hib),2024,25289.0,27545.0,91.81
+UF,Bahia,BA,29,Nordeste,Penta (DTP/HepB/Hib),2024,143792.0,160000.0,89.87
+UF,Minas Gerais,MG,31,Sudeste,Penta (DTP/HepB/Hib),2024,207167.0,219818.0,94.24
+UF,Espírito Santo,ES,32,Sudeste,Penta (DTP/HepB/Hib),2024,46881.0,49934.0,93.89
+UF,Rio de Janeiro,RJ,33,Sudeste,Penta (DTP/HepB/Hib),2024,133791.0,163700.0,81.73
+UF,São Paulo,SP,35,Sudeste,Penta (DTP/HepB/Hib),2024,436914.0,470883.0,92.79
+UF,Paraná,PR,41,Sul,Penta (DTP/HepB/Hib),2024,126581.0,131026.0,96.61
+UF,Santa Catarina,SC,42,Sul,Penta (DTP/HepB/Hib),2024,87146.0,93786.0,92.92
+UF,Rio Grande do Sul,RS,43,Sul,Penta (DTP/HepB/Hib),2024,104867.0,111988.0,93.64
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Penta (DTP/HepB/Hib),2024,35224.0,37908.0,92.92
+UF,Mato Grosso,MT,51,Centro-Oeste,Penta (DTP/HepB/Hib),2024,51148.0,55310.0,92.48
+UF,Goiás,GO,52,Centro-Oeste,Penta (DTP/HepB/Hib),2024,73280.0,88862.0,82.46
+UF,Distrito Federal,DF,53,Centro-Oeste,Penta (DTP/HepB/Hib),2024,30369.0,33282.0,91.25
+UF,Rondônia,RO,11,Norte,Penta (DTP/HepB/Hib),2025,20332.0,21716.0,93.63
+UF,Acre,AC,12,Norte,Penta (DTP/HepB/Hib),2025,11147.0,13101.0,85.09
+UF,Amazonas,AM,13,Norte,Penta (DTP/HepB/Hib),2025,57312.0,65941.0,86.91
+UF,Roraima,RR,14,Norte,Penta (DTP/HepB/Hib),2025,9596.0,12089.0,79.38
+UF,Pará,PA,15,Norte,Penta (DTP/HepB/Hib),2025,94146.0,118566.0,79.4
+UF,Amapá,AP,16,Norte,Penta (DTP/HepB/Hib),2025,8925.0,12327.0,72.4
+UF,Tocantins,TO,17,Norte,Penta (DTP/HepB/Hib),2025,19828.0,21920.0,90.46
+UF,Maranhão,MA,21,Nordeste,Penta (DTP/HepB/Hib),2025,78482.0,92173.0,85.15
+UF,Piauí,PI,22,Nordeste,Penta (DTP/HepB/Hib),2025,37118.0,39696.0,93.51
+UF,Ceará,CE,23,Nordeste,Penta (DTP/HepB/Hib),2025,98673.0,105453.0,93.57
+UF,Rio Grande do Norte,RN,24,Nordeste,Penta (DTP/HepB/Hib),2025,32327.0,36612.0,88.3
+UF,Paraíba,PB,25,Nordeste,Penta (DTP/HepB/Hib),2025,42425.0,49376.0,85.92
+UF,Pernambuco,PE,26,Nordeste,Penta (DTP/HepB/Hib),2025,98460.0,110824.0,88.84
+UF,Alagoas,AL,27,Nordeste,Penta (DTP/HepB/Hib),2025,41080.0,45435.0,90.41
+UF,Sergipe,SE,28,Nordeste,Penta (DTP/HepB/Hib),2025,25288.0,27545.0,91.81
+UF,Bahia,BA,29,Nordeste,Penta (DTP/HepB/Hib),2025,142790.0,160000.0,89.24
+UF,Minas Gerais,MG,31,Sudeste,Penta (DTP/HepB/Hib),2025,203389.0,219818.0,92.53
+UF,Espírito Santo,ES,32,Sudeste,Penta (DTP/HepB/Hib),2025,45362.0,49934.0,90.84
+UF,Rio de Janeiro,RJ,33,Sudeste,Penta (DTP/HepB/Hib),2025,135260.0,163700.0,82.63
+UF,São Paulo,SP,35,Sudeste,Penta (DTP/HepB/Hib),2025,426187.0,470883.0,90.51
+UF,Paraná,PR,41,Sul,Penta (DTP/HepB/Hib),2025,124202.0,131026.0,94.79
+UF,Santa Catarina,SC,42,Sul,Penta (DTP/HepB/Hib),2025,87909.0,93786.0,93.73
+UF,Rio Grande do Sul,RS,43,Sul,Penta (DTP/HepB/Hib),2025,102347.0,111988.0,91.39
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Penta (DTP/HepB/Hib),2025,34890.0,37908.0,92.04
+UF,Mato Grosso,MT,51,Centro-Oeste,Penta (DTP/HepB/Hib),2025,50574.0,55310.0,91.44
+UF,Goiás,GO,52,Centro-Oeste,Penta (DTP/HepB/Hib),2025,75674.0,88862.0,85.16
+UF,Distrito Federal,DF,53,Centro-Oeste,Penta (DTP/HepB/Hib),2025,29793.0,33282.0,89.52
+UF,Rondônia,RO,11,Norte,Pneumocócica Conjugada,2023,22687.0,23918.0,94.85
+UF,Acre,AC,12,Norte,Pneumocócica Conjugada,2023,12273.0,14473.0,84.8
+UF,Amazonas,AM,13,Norte,Pneumocócica Conjugada,2023,61749.0,70441.0,87.66
+UF,Roraima,RR,14,Norte,Pneumocócica Conjugada,2023,10583.0,13103.0,80.77
+UF,Pará,PA,15,Norte,Pneumocócica Conjugada,2023,103762.0,126150.0,82.25
+UF,Amapá,AP,16,Norte,Pneumocócica Conjugada,2023,9379.0,12948.0,72.44
+UF,Tocantins,TO,17,Norte,Pneumocócica Conjugada,2023,21791.0,23145.0,94.15
+UF,Maranhão,MA,21,Nordeste,Pneumocócica Conjugada,2023,85689.0,97199.0,88.16
+UF,Piauí,PI,22,Nordeste,Pneumocócica Conjugada,2023,39461.0,42143.0,93.64
+UF,Ceará,CE,23,Nordeste,Pneumocócica Conjugada,2023,104543.0,111091.0,94.11
+UF,Rio Grande do Norte,RN,24,Nordeste,Pneumocócica Conjugada,2023,35095.0,39440.0,88.98
+UF,Paraíba,PB,25,Nordeste,Pneumocócica Conjugada,2023,45067.0,51531.0,87.46
+UF,Pernambuco,PE,26,Nordeste,Pneumocócica Conjugada,2023,102847.0,116161.0,88.54
+UF,Alagoas,AL,27,Nordeste,Pneumocócica Conjugada,2023,44000.0,46542.0,94.54
+UF,Sergipe,SE,28,Nordeste,Pneumocócica Conjugada,2023,26086.0,29005.0,89.94
+UF,Bahia,BA,29,Nordeste,Pneumocócica Conjugada,2023,153315.0,170312.0,90.02
+UF,Minas Gerais,MG,31,Sudeste,Pneumocócica Conjugada,2023,211677.0,233916.0,90.49
+UF,Espírito Santo,ES,32,Sudeste,Pneumocócica Conjugada,2023,47932.0,52187.0,91.85
+UF,Rio de Janeiro,RJ,33,Sudeste,Pneumocócica Conjugada,2023,133972.0,176137.0,76.06
+UF,São Paulo,SP,35,Sudeste,Pneumocócica Conjugada,2023,460949.0,503903.0,91.48
+UF,Paraná,PR,41,Sul,Pneumocócica Conjugada,2023,132438.0,139833.0,94.71
+UF,Santa Catarina,SC,42,Sul,Pneumocócica Conjugada,2023,90452.0,96802.0,93.44
+UF,Rio Grande do Sul,RS,43,Sul,Pneumocócica Conjugada,2023,112086.0,120974.0,92.65
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Pneumocócica Conjugada,2023,37554.0,40233.0,93.34
+UF,Mato Grosso,MT,51,Centro-Oeste,Pneumocócica Conjugada,2023,54405.0,58553.0,92.92
+UF,Goiás,GO,52,Centro-Oeste,Pneumocócica Conjugada,2023,79072.0,91820.0,86.12
+UF,Distrito Federal,DF,53,Centro-Oeste,Pneumocócica Conjugada,2023,32446.0,35551.0,91.27
+UF,Rondônia,RO,11,Norte,Pneumocócica Conjugada,2024,21178.0,21716.0,97.52
+UF,Acre,AC,12,Norte,Pneumocócica Conjugada,2024,11963.0,13101.0,91.31
+UF,Amazonas,AM,13,Norte,Pneumocócica Conjugada,2024,61100.0,65941.0,92.66
+UF,Roraima,RR,14,Norte,Pneumocócica Conjugada,2024,10410.0,12089.0,86.11
+UF,Pará,PA,15,Norte,Pneumocócica Conjugada,2024,103269.0,118566.0,87.1
+UF,Amapá,AP,16,Norte,Pneumocócica Conjugada,2024,10126.0,12327.0,82.14
+UF,Tocantins,TO,17,Norte,Pneumocócica Conjugada,2024,20893.0,21920.0,95.31
+UF,Maranhão,MA,21,Nordeste,Pneumocócica Conjugada,2024,83491.0,92173.0,90.58
+UF,Piauí,PI,22,Nordeste,Pneumocócica Conjugada,2024,38824.0,39696.0,97.8
+UF,Ceará,CE,23,Nordeste,Pneumocócica Conjugada,2024,102344.0,105453.0,97.05
+UF,Rio Grande do Norte,RN,24,Nordeste,Pneumocócica Conjugada,2024,34794.0,36612.0,95.03
+UF,Paraíba,PB,25,Nordeste,Pneumocócica Conjugada,2024,44375.0,49376.0,89.87
+UF,Pernambuco,PE,26,Nordeste,Pneumocócica Conjugada,2024,104210.0,110824.0,94.03
+UF,Alagoas,AL,27,Nordeste,Pneumocócica Conjugada,2024,43098.0,45435.0,94.86
+UF,Sergipe,SE,28,Nordeste,Pneumocócica Conjugada,2024,25638.0,27545.0,93.08
+UF,Bahia,BA,29,Nordeste,Pneumocócica Conjugada,2024,147634.0,160000.0,92.27
+UF,Minas Gerais,MG,31,Sudeste,Pneumocócica Conjugada,2024,209965.0,219818.0,95.52
+UF,Espírito Santo,ES,32,Sudeste,Pneumocócica Conjugada,2024,48943.0,49934.0,98.02
+UF,Rio de Janeiro,RJ,33,Sudeste,Pneumocócica Conjugada,2024,140446.0,163700.0,85.79
+UF,São Paulo,SP,35,Sudeste,Pneumocócica Conjugada,2024,444843.0,470883.0,94.47
+UF,Paraná,PR,41,Sul,Pneumocócica Conjugada,2024,127073.0,131026.0,96.98
+UF,Santa Catarina,SC,42,Sul,Pneumocócica Conjugada,2024,89053.0,93786.0,94.95
+UF,Rio Grande do Sul,RS,43,Sul,Pneumocócica Conjugada,2024,108252.0,111988.0,96.66
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Pneumocócica Conjugada,2024,36375.0,37908.0,95.96
+UF,Mato Grosso,MT,51,Centro-Oeste,Pneumocócica Conjugada,2024,52726.0,55310.0,95.33
+UF,Goiás,GO,52,Centro-Oeste,Pneumocócica Conjugada,2024,79584.0,88862.0,89.56
+UF,Distrito Federal,DF,53,Centro-Oeste,Pneumocócica Conjugada,2024,32874.0,33282.0,98.77
+UF,Rondônia,RO,11,Norte,Pneumocócica Conjugada,2025,21439.0,21716.0,98.72
+UF,Acre,AC,12,Norte,Pneumocócica Conjugada,2025,12297.0,13101.0,93.86
+UF,Amazonas,AM,13,Norte,Pneumocócica Conjugada,2025,61891.0,65941.0,93.86
+UF,Roraima,RR,14,Norte,Pneumocócica Conjugada,2025,10039.0,12089.0,83.04
+UF,Pará,PA,15,Norte,Pneumocócica Conjugada,2025,103388.0,118566.0,87.2
+UF,Amapá,AP,16,Norte,Pneumocócica Conjugada,2025,9930.0,12327.0,80.55
+UF,Tocantins,TO,17,Norte,Pneumocócica Conjugada,2025,21517.0,21920.0,98.16
+UF,Maranhão,MA,21,Nordeste,Pneumocócica Conjugada,2025,84188.0,92173.0,91.34
+UF,Piauí,PI,22,Nordeste,Pneumocócica Conjugada,2025,38746.0,39696.0,97.61
+UF,Ceará,CE,23,Nordeste,Pneumocócica Conjugada,2025,101820.0,105453.0,96.55
+UF,Rio Grande do Norte,RN,24,Nordeste,Pneumocócica Conjugada,2025,34779.0,36612.0,94.99
+UF,Paraíba,PB,25,Nordeste,Pneumocócica Conjugada,2025,44829.0,49376.0,90.79
+UF,Pernambuco,PE,26,Nordeste,Pneumocócica Conjugada,2025,103174.0,110824.0,93.1
+UF,Alagoas,AL,27,Nordeste,Pneumocócica Conjugada,2025,43463.0,45435.0,95.66
+UF,Sergipe,SE,28,Nordeste,Pneumocócica Conjugada,2025,26471.0,27545.0,96.1
+UF,Bahia,BA,29,Nordeste,Pneumocócica Conjugada,2025,150743.0,160000.0,94.21
+UF,Minas Gerais,MG,31,Sudeste,Pneumocócica Conjugada,2025,212854.0,219818.0,96.83
+UF,Espírito Santo,ES,32,Sudeste,Pneumocócica Conjugada,2025,48279.0,49934.0,96.69
+UF,Rio de Janeiro,RJ,33,Sudeste,Pneumocócica Conjugada,2025,143827.0,163700.0,87.86
+UF,São Paulo,SP,35,Sudeste,Pneumocócica Conjugada,2025,446231.0,470883.0,94.76
+UF,Paraná,PR,41,Sul,Pneumocócica Conjugada,2025,127967.0,131026.0,97.67
+UF,Santa Catarina,SC,42,Sul,Pneumocócica Conjugada,2025,91516.0,93786.0,97.58
+UF,Rio Grande do Sul,RS,43,Sul,Pneumocócica Conjugada,2025,108238.0,111988.0,96.65
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Pneumocócica Conjugada,2025,37463.0,37908.0,98.83
+UF,Mato Grosso,MT,51,Centro-Oeste,Pneumocócica Conjugada,2025,53786.0,55310.0,97.24
+UF,Goiás,GO,52,Centro-Oeste,Pneumocócica Conjugada,2025,83615.0,88862.0,94.1
+UF,Distrito Federal,DF,53,Centro-Oeste,Pneumocócica Conjugada,2025,32890.0,33282.0,98.82
+UF,Rondônia,RO,11,Norte,Poliomielite,2023,21778.0,23918.0,91.05
+UF,Acre,AC,12,Norte,Poliomielite,2023,10984.0,14473.0,75.89
+UF,Amazonas,AM,13,Norte,Poliomielite,2023,58443.0,70441.0,82.97
+UF,Roraima,RR,14,Norte,Poliomielite,2023,9412.0,13103.0,71.83
+UF,Pará,PA,15,Norte,Poliomielite,2023,96102.0,126150.0,76.18
+UF,Amapá,AP,16,Norte,Poliomielite,2023,8538.0,12948.0,65.94
+UF,Tocantins,TO,17,Norte,Poliomielite,2023,20428.0,23145.0,88.26
+UF,Maranhão,MA,21,Nordeste,Poliomielite,2023,82254.0,97199.0,84.62
+UF,Piauí,PI,22,Nordeste,Poliomielite,2023,39007.0,42143.0,92.56
+UF,Ceará,CE,23,Nordeste,Poliomielite,2023,103057.0,111091.0,92.77
+UF,Rio Grande do Norte,RN,24,Nordeste,Poliomielite,2023,32902.0,39440.0,83.42
+UF,Paraíba,PB,25,Nordeste,Poliomielite,2023,43945.0,51531.0,85.28
+UF,Pernambuco,PE,26,Nordeste,Poliomielite,2023,99317.0,116161.0,85.5
+UF,Alagoas,AL,27,Nordeste,Poliomielite,2023,42093.0,46542.0,90.44
+UF,Sergipe,SE,28,Nordeste,Poliomielite,2023,24948.0,29005.0,86.01
+UF,Bahia,BA,29,Nordeste,Poliomielite,2023,148488.0,170312.0,87.19
+UF,Minas Gerais,MG,31,Sudeste,Poliomielite,2023,208134.0,233916.0,88.98
+UF,Espírito Santo,ES,32,Sudeste,Poliomielite,2023,45302.0,52187.0,86.81
+UF,Rio de Janeiro,RJ,33,Sudeste,Poliomielite,2023,128524.0,176137.0,72.97
+UF,São Paulo,SP,35,Sudeste,Poliomielite,2023,448454.0,503903.0,89.0
+UF,Paraná,PR,41,Sul,Poliomielite,2023,128957.0,139833.0,92.22
+UF,Santa Catarina,SC,42,Sul,Poliomielite,2023,88275.0,96802.0,91.19
+UF,Rio Grande do Sul,RS,43,Sul,Poliomielite,2023,106661.0,120974.0,88.17
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Poliomielite,2023,35863.0,40233.0,89.14
+UF,Mato Grosso,MT,51,Centro-Oeste,Poliomielite,2023,51733.0,58553.0,88.35
+UF,Goiás,GO,52,Centro-Oeste,Poliomielite,2023,73929.0,91820.0,80.52
+UF,Distrito Federal,DF,53,Centro-Oeste,Poliomielite,2023,30675.0,35551.0,86.28
+UF,Rondônia,RO,11,Norte,Poliomielite,2024,20648.0,21716.0,95.08
+UF,Acre,AC,12,Norte,Poliomielite,2024,11013.0,13101.0,84.06
+UF,Amazonas,AM,13,Norte,Poliomielite,2024,57587.0,65941.0,87.33
+UF,Roraima,RR,14,Norte,Poliomielite,2024,9499.0,12089.0,78.58
+UF,Pará,PA,15,Norte,Poliomielite,2024,97276.0,118566.0,82.04
+UF,Amapá,AP,16,Norte,Poliomielite,2024,9011.0,12327.0,73.1
+UF,Tocantins,TO,17,Norte,Poliomielite,2024,20320.0,21920.0,92.7
+UF,Maranhão,MA,21,Nordeste,Poliomielite,2024,80425.0,92173.0,87.25
+UF,Piauí,PI,22,Nordeste,Poliomielite,2024,38168.0,39696.0,96.15
+UF,Ceará,CE,23,Nordeste,Poliomielite,2024,100589.0,105453.0,95.39
+UF,Rio Grande do Norte,RN,24,Nordeste,Poliomielite,2024,33240.0,36612.0,90.79
+UF,Paraíba,PB,25,Nordeste,Poliomielite,2024,43202.0,49376.0,87.5
+UF,Pernambuco,PE,26,Nordeste,Poliomielite,2024,100329.0,110824.0,90.53
+UF,Alagoas,AL,27,Nordeste,Poliomielite,2024,41763.0,45435.0,91.92
+UF,Sergipe,SE,28,Nordeste,Poliomielite,2024,25248.0,27545.0,91.66
+UF,Bahia,BA,29,Nordeste,Poliomielite,2024,143582.0,160000.0,89.74
+UF,Minas Gerais,MG,31,Sudeste,Poliomielite,2024,207707.0,219818.0,94.49
+UF,Espírito Santo,ES,32,Sudeste,Poliomielite,2024,46973.0,49934.0,94.07
+UF,Rio de Janeiro,RJ,33,Sudeste,Poliomielite,2024,134995.0,163700.0,82.46
+UF,São Paulo,SP,35,Sudeste,Poliomielite,2024,439995.0,470883.0,93.44
+UF,Paraná,PR,41,Sul,Poliomielite,2024,125704.0,131026.0,95.94
+UF,Santa Catarina,SC,42,Sul,Poliomielite,2024,87361.0,93786.0,93.15
+UF,Rio Grande do Sul,RS,43,Sul,Poliomielite,2024,104952.0,111988.0,93.72
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Poliomielite,2024,35316.0,37908.0,93.16
+UF,Mato Grosso,MT,51,Centro-Oeste,Poliomielite,2024,50520.0,55310.0,91.34
+UF,Goiás,GO,52,Centro-Oeste,Poliomielite,2024,74606.0,88862.0,83.96
+UF,Distrito Federal,DF,53,Centro-Oeste,Poliomielite,2024,31230.0,33282.0,93.83
+UF,Rondônia,RO,11,Norte,Poliomielite,2025,20274.0,21716.0,93.36
+UF,Acre,AC,12,Norte,Poliomielite,2025,10933.0,13101.0,83.45
+UF,Amazonas,AM,13,Norte,Poliomielite,2025,56882.0,65941.0,86.26
+UF,Roraima,RR,14,Norte,Poliomielite,2025,9450.0,12089.0,78.17
+UF,Pará,PA,15,Norte,Poliomielite,2025,84811.0,118566.0,71.53
+UF,Amapá,AP,16,Norte,Poliomielite,2025,8846.0,12327.0,71.76
+UF,Tocantins,TO,17,Norte,Poliomielite,2025,19951.0,21920.0,91.02
+UF,Maranhão,MA,21,Nordeste,Poliomielite,2025,77237.0,92173.0,83.8
+UF,Piauí,PI,22,Nordeste,Poliomielite,2025,36787.0,39696.0,92.67
+UF,Ceará,CE,23,Nordeste,Poliomielite,2025,98961.0,105453.0,93.84
+UF,Rio Grande do Norte,RN,24,Nordeste,Poliomielite,2025,31889.0,36612.0,87.1
+UF,Paraíba,PB,25,Nordeste,Poliomielite,2025,42190.0,49376.0,85.45
+UF,Pernambuco,PE,26,Nordeste,Poliomielite,2025,97489.0,110824.0,87.97
+UF,Alagoas,AL,27,Nordeste,Poliomielite,2025,41034.0,45435.0,90.31
+UF,Sergipe,SE,28,Nordeste,Poliomielite,2025,25270.0,27545.0,91.74
+UF,Bahia,BA,29,Nordeste,Poliomielite,2025,141488.0,160000.0,88.43
+UF,Minas Gerais,MG,31,Sudeste,Poliomielite,2025,204593.0,219818.0,93.07
+UF,Espírito Santo,ES,32,Sudeste,Poliomielite,2025,45251.0,49934.0,90.62
+UF,Rio de Janeiro,RJ,33,Sudeste,Poliomielite,2025,133626.0,163700.0,81.63
+UF,São Paulo,SP,35,Sudeste,Poliomielite,2025,428177.0,470883.0,90.93
+UF,Paraná,PR,41,Sul,Poliomielite,2025,124133.0,131026.0,94.74
+UF,Santa Catarina,SC,42,Sul,Poliomielite,2025,88135.0,93786.0,93.97
+UF,Rio Grande do Sul,RS,43,Sul,Poliomielite,2025,102636.0,111988.0,91.65
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Poliomielite,2025,35364.0,37908.0,93.29
+UF,Mato Grosso,MT,51,Centro-Oeste,Poliomielite,2025,50474.0,55310.0,91.26
+UF,Goiás,GO,52,Centro-Oeste,Poliomielite,2025,75700.0,88862.0,85.19
+UF,Distrito Federal,DF,53,Centro-Oeste,Poliomielite,2025,30699.0,33282.0,92.24
+UF,Rondônia,RO,11,Norte,Tríplice Viral - 1° Dose,2023,22384.0,23918.0,93.59
+UF,Acre,AC,12,Norte,Tríplice Viral - 1° Dose,2023,11340.0,14473.0,78.35
+UF,Amazonas,AM,13,Norte,Tríplice Viral - 1° Dose,2023,61138.0,70441.0,86.79
+UF,Roraima,RR,14,Norte,Tríplice Viral - 1° Dose,2023,11329.0,13103.0,86.46
+UF,Pará,PA,15,Norte,Tríplice Viral - 1° Dose,2023,97388.0,126150.0,77.2
+UF,Amapá,AP,16,Norte,Tríplice Viral - 1° Dose,2023,10495.0,12948.0,81.05
+UF,Tocantins,TO,17,Norte,Tríplice Viral - 1° Dose,2023,20818.0,23145.0,89.95
+UF,Maranhão,MA,21,Nordeste,Tríplice Viral - 1° Dose,2023,83868.0,97199.0,86.28
+UF,Piauí,PI,22,Nordeste,Tríplice Viral - 1° Dose,2023,39950.0,42143.0,94.8
+UF,Ceará,CE,23,Nordeste,Tríplice Viral - 1° Dose,2023,104673.0,111091.0,94.22
+UF,Rio Grande do Norte,RN,24,Nordeste,Tríplice Viral - 1° Dose,2023,34781.0,39440.0,88.19
+UF,Paraíba,PB,25,Nordeste,Tríplice Viral - 1° Dose,2023,46500.0,51531.0,90.24
+UF,Pernambuco,PE,26,Nordeste,Tríplice Viral - 1° Dose,2023,103239.0,116161.0,88.88
+UF,Alagoas,AL,27,Nordeste,Tríplice Viral - 1° Dose,2023,43134.0,46542.0,92.68
+UF,Sergipe,SE,28,Nordeste,Tríplice Viral - 1° Dose,2023,26386.0,29005.0,90.97
+UF,Bahia,BA,29,Nordeste,Tríplice Viral - 1° Dose,2023,155527.0,170312.0,91.32
+UF,Minas Gerais,MG,31,Sudeste,Tríplice Viral - 1° Dose,2023,214542.0,233916.0,91.72
+UF,Espírito Santo,ES,32,Sudeste,Tríplice Viral - 1° Dose,2023,46762.0,52187.0,89.6
+UF,Rio de Janeiro,RJ,33,Sudeste,Tríplice Viral - 1° Dose,2023,141619.0,176137.0,80.4
+UF,São Paulo,SP,35,Sudeste,Tríplice Viral - 1° Dose,2023,471958.0,503903.0,93.66
+UF,Paraná,PR,41,Sul,Tríplice Viral - 1° Dose,2023,132580.0,139833.0,94.81
+UF,Santa Catarina,SC,42,Sul,Tríplice Viral - 1° Dose,2023,92547.0,96802.0,95.6
+UF,Rio Grande do Sul,RS,43,Sul,Tríplice Viral - 1° Dose,2023,110431.0,120974.0,91.28
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Tríplice Viral - 1° Dose,2023,36901.0,40233.0,91.72
+UF,Mato Grosso,MT,51,Centro-Oeste,Tríplice Viral - 1° Dose,2023,51741.0,58553.0,88.37
+UF,Goiás,GO,52,Centro-Oeste,Tríplice Viral - 1° Dose,2023,76779.0,91820.0,83.62
+UF,Distrito Federal,DF,53,Centro-Oeste,Tríplice Viral - 1° Dose,2023,32519.0,35551.0,91.47
+UF,Rondônia,RO,11,Norte,Tríplice Viral - 1° Dose,2024,22128.0,21716.0,101.9
+UF,Acre,AC,12,Norte,Tríplice Viral - 1° Dose,2024,11155.0,13101.0,85.15
+UF,Amazonas,AM,13,Norte,Tríplice Viral - 1° Dose,2024,63388.0,65941.0,96.13
+UF,Roraima,RR,14,Norte,Tríplice Viral - 1° Dose,2024,12082.0,12089.0,99.94
+UF,Pará,PA,15,Norte,Tríplice Viral - 1° Dose,2024,103045.0,118566.0,86.91
+UF,Amapá,AP,16,Norte,Tríplice Viral - 1° Dose,2024,10727.0,12327.0,87.02
+UF,Tocantins,TO,17,Norte,Tríplice Viral - 1° Dose,2024,20676.0,21920.0,94.32
+UF,Maranhão,MA,21,Nordeste,Tríplice Viral - 1° Dose,2024,78981.0,92173.0,85.69
+UF,Piauí,PI,22,Nordeste,Tríplice Viral - 1° Dose,2024,39121.0,39696.0,98.55
+UF,Ceará,CE,23,Nordeste,Tríplice Viral - 1° Dose,2024,102368.0,105453.0,97.07
+UF,Rio Grande do Norte,RN,24,Nordeste,Tríplice Viral - 1° Dose,2024,34828.0,36612.0,95.13
+UF,Paraíba,PB,25,Nordeste,Tríplice Viral - 1° Dose,2024,44443.0,49376.0,90.01
+UF,Pernambuco,PE,26,Nordeste,Tríplice Viral - 1° Dose,2024,101653.0,110824.0,91.72
+UF,Alagoas,AL,27,Nordeste,Tríplice Viral - 1° Dose,2024,43266.0,45435.0,95.23
+UF,Sergipe,SE,28,Nordeste,Tríplice Viral - 1° Dose,2024,26147.0,27545.0,94.92
+UF,Bahia,BA,29,Nordeste,Tríplice Viral - 1° Dose,2024,154852.0,160000.0,96.78
+UF,Minas Gerais,MG,31,Sudeste,Tríplice Viral - 1° Dose,2024,224108.0,219818.0,101.95
+UF,Espírito Santo,ES,32,Sudeste,Tríplice Viral - 1° Dose,2024,47812.0,49934.0,95.75
+UF,Rio de Janeiro,RJ,33,Sudeste,Tríplice Viral - 1° Dose,2024,143968.0,163700.0,87.95
+UF,São Paulo,SP,35,Sudeste,Tríplice Viral - 1° Dose,2024,467818.0,470883.0,99.35
+UF,Paraná,PR,41,Sul,Tríplice Viral - 1° Dose,2024,134034.0,131026.0,102.3
+UF,Santa Catarina,SC,42,Sul,Tríplice Viral - 1° Dose,2024,92819.0,93786.0,98.97
+UF,Rio Grande do Sul,RS,43,Sul,Tríplice Viral - 1° Dose,2024,111080.0,111988.0,99.19
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Tríplice Viral - 1° Dose,2024,37359.0,37908.0,98.55
+UF,Mato Grosso,MT,51,Centro-Oeste,Tríplice Viral - 1° Dose,2024,52887.0,55310.0,95.62
+UF,Goiás,GO,52,Centro-Oeste,Tríplice Viral - 1° Dose,2024,79072.0,88862.0,88.98
+UF,Distrito Federal,DF,53,Centro-Oeste,Tríplice Viral - 1° Dose,2024,33198.0,33282.0,99.75
+UF,Rondônia,RO,11,Norte,Tríplice Viral - 1° Dose,2025,20548.0,21716.0,94.62
+UF,Acre,AC,12,Norte,Tríplice Viral - 1° Dose,2025,12000.0,13101.0,91.6
+UF,Amazonas,AM,13,Norte,Tríplice Viral - 1° Dose,2025,59131.0,65941.0,89.67
+UF,Roraima,RR,14,Norte,Tríplice Viral - 1° Dose,2025,11443.0,12089.0,94.66
+UF,Pará,PA,15,Norte,Tríplice Viral - 1° Dose,2025,98948.0,118566.0,83.45
+UF,Amapá,AP,16,Norte,Tríplice Viral - 1° Dose,2025,10286.0,12327.0,83.44
+UF,Tocantins,TO,17,Norte,Tríplice Viral - 1° Dose,2025,20956.0,21920.0,95.6
+UF,Maranhão,MA,21,Nordeste,Tríplice Viral - 1° Dose,2025,82720.0,92173.0,89.74
+UF,Piauí,PI,22,Nordeste,Tríplice Viral - 1° Dose,2025,38831.0,39696.0,97.82
+UF,Ceará,CE,23,Nordeste,Tríplice Viral - 1° Dose,2025,97664.0,105453.0,92.61
+UF,Rio Grande do Norte,RN,24,Nordeste,Tríplice Viral - 1° Dose,2025,32426.0,36612.0,88.57
+UF,Paraíba,PB,25,Nordeste,Tríplice Viral - 1° Dose,2025,45792.0,49376.0,92.74
+UF,Pernambuco,PE,26,Nordeste,Tríplice Viral - 1° Dose,2025,100934.0,110824.0,91.08
+UF,Alagoas,AL,27,Nordeste,Tríplice Viral - 1° Dose,2025,42425.0,45435.0,93.38
+UF,Sergipe,SE,28,Nordeste,Tríplice Viral - 1° Dose,2025,26114.0,27545.0,94.8
+UF,Bahia,BA,29,Nordeste,Tríplice Viral - 1° Dose,2025,148215.0,160000.0,92.63
+UF,Minas Gerais,MG,31,Sudeste,Tríplice Viral - 1° Dose,2025,211699.0,219818.0,96.31
+UF,Espírito Santo,ES,32,Sudeste,Tríplice Viral - 1° Dose,2025,48323.0,49934.0,96.77
+UF,Rio de Janeiro,RJ,33,Sudeste,Tríplice Viral - 1° Dose,2025,148102.0,163700.0,90.47
+UF,São Paulo,SP,35,Sudeste,Tríplice Viral - 1° Dose,2025,444751.0,470883.0,94.45
+UF,Paraná,PR,41,Sul,Tríplice Viral - 1° Dose,2025,127369.0,131026.0,97.21
+UF,Santa Catarina,SC,42,Sul,Tríplice Viral - 1° Dose,2025,90355.0,93786.0,96.34
+UF,Rio Grande do Sul,RS,43,Sul,Tríplice Viral - 1° Dose,2025,106824.0,111988.0,95.39
+UF,Mato Grosso do Sul,MS,50,Centro-Oeste,Tríplice Viral - 1° Dose,2025,35790.0,37908.0,94.41
+UF,Mato Grosso,MT,51,Centro-Oeste,Tríplice Viral - 1° Dose,2025,52570.0,55310.0,95.05
+UF,Goiás,GO,52,Centro-Oeste,Tríplice Viral - 1° Dose,2025,80052.0,88862.0,90.09
+UF,Distrito Federal,DF,53,Centro-Oeste,Tríplice Viral - 1° Dose,2025,31452.0,33282.0,94.5
+Região,Centro-Oeste,,,Centro-Oeste,Penta (DTP/HepB/Hib),2023,189785.0,226157.0,83.92
+Região,Nordeste,,,Nordeste,Penta (DTP/HepB/Hib),2023,609389.0,703424.0,86.63
+Região,Norte,,,Norte,Penta (DTP/HepB/Hib),2023,218912.0,284178.0,77.03
+Região,Sudeste,,,Sudeste,Penta (DTP/HepB/Hib),2023,826081.0,966143.0,85.5
+Região,Sul,,,Sul,Penta (DTP/HepB/Hib),2023,322961.0,357609.0,90.31
+Região,Centro-Oeste,,,Centro-Oeste,Penta (DTP/HepB/Hib),2024,190021.0,215362.0,88.23
+Região,Nordeste,,,Nordeste,Penta (DTP/HepB/Hib),2024,607039.0,667114.0,90.99
+Região,Norte,,,Norte,Penta (DTP/HepB/Hib),2024,225908.0,265660.0,85.04
+Região,Sudeste,,,Sudeste,Penta (DTP/HepB/Hib),2024,824753.0,904335.0,91.2
+Região,Sul,,,Sul,Penta (DTP/HepB/Hib),2024,318594.0,336800.0,94.59
+Região,Centro-Oeste,,,Centro-Oeste,Penta (DTP/HepB/Hib),2025,190931.0,215362.0,88.66
+Região,Nordeste,,,Nordeste,Penta (DTP/HepB/Hib),2025,596643.0,667114.0,89.44
+Região,Norte,,,Norte,Penta (DTP/HepB/Hib),2025,221286.0,265660.0,83.3
+Região,Sudeste,,,Sudeste,Penta (DTP/HepB/Hib),2025,810198.0,904335.0,89.59
+Região,Sul,,,Sul,Penta (DTP/HepB/Hib),2025,314458.0,336800.0,93.37
+Região,Centro-Oeste,,,Centro-Oeste,Pneumocócica Conjugada,2023,203477.0,226157.0,89.97
+Região,Nordeste,,,Nordeste,Pneumocócica Conjugada,2023,636103.0,703424.0,90.43
+Região,Norte,,,Norte,Pneumocócica Conjugada,2023,242224.0,284178.0,85.24
+Região,Sudeste,,,Sudeste,Pneumocócica Conjugada,2023,854530.0,966143.0,88.45
+Região,Sul,,,Sul,Pneumocócica Conjugada,2023,334976.0,357609.0,93.67
+Região,Centro-Oeste,,,Centro-Oeste,Pneumocócica Conjugada,2024,201559.0,215362.0,93.59
+Região,Nordeste,,,Nordeste,Pneumocócica Conjugada,2024,624408.0,667114.0,93.6
+Região,Norte,,,Norte,Pneumocócica Conjugada,2024,238939.0,265660.0,89.94
+Região,Sudeste,,,Sudeste,Pneumocócica Conjugada,2024,844197.0,904335.0,93.35
+Região,Sul,,,Sul,Pneumocócica Conjugada,2024,324378.0,336800.0,96.31
+Região,Centro-Oeste,,,Centro-Oeste,Pneumocócica Conjugada,2025,207754.0,215362.0,96.47
+Região,Nordeste,,,Nordeste,Pneumocócica Conjugada,2025,628213.0,667114.0,94.17
+Região,Norte,,,Norte,Pneumocócica Conjugada,2025,240501.0,265660.0,90.53
+Região,Sudeste,,,Sudeste,Pneumocócica Conjugada,2025,851191.0,904335.0,94.12
+Região,Sul,,,Sul,Pneumocócica Conjugada,2025,327721.0,336800.0,97.3
+Região,Centro-Oeste,,,Centro-Oeste,Poliomielite,2023,192200.0,226157.0,84.99
+Região,Nordeste,,,Nordeste,Poliomielite,2023,616011.0,703424.0,87.57
+Região,Norte,,,Norte,Poliomielite,2023,225685.0,284178.0,79.42
+Região,Sudeste,,,Sudeste,Poliomielite,2023,830414.0,966143.0,85.95
+Região,Sul,,,Sul,Poliomielite,2023,323893.0,357609.0,90.57
+Região,Centro-Oeste,,,Centro-Oeste,Poliomielite,2024,191672.0,215362.0,89.0
+Região,Nordeste,,,Nordeste,Poliomielite,2024,606546.0,667114.0,90.92
+Região,Norte,,,Norte,Poliomielite,2024,225354.0,265660.0,84.83
+Região,Sudeste,,,Sudeste,Poliomielite,2024,829670.0,904335.0,91.74
+Região,Sul,,,Sul,Poliomielite,2024,318017.0,336800.0,94.42
+Região,Centro-Oeste,,,Centro-Oeste,Poliomielite,2025,192237.0,215362.0,89.26
+Região,Nordeste,,,Nordeste,Poliomielite,2025,592345.0,667114.0,88.79
+Região,Norte,,,Norte,Poliomielite,2025,211147.0,265660.0,79.48
+Região,Sudeste,,,Sudeste,Poliomielite,2025,811647.0,904335.0,89.75
+Região,Sul,,,Sul,Poliomielite,2025,314904.0,336800.0,93.5
+Região,Centro-Oeste,,,Centro-Oeste,Tríplice Viral - 1° Dose,2023,197940.0,226157.0,87.52
+Região,Nordeste,,,Nordeste,Tríplice Viral - 1° Dose,2023,638058.0,703424.0,90.71
+Região,Norte,,,Norte,Tríplice Viral - 1° Dose,2023,234892.0,284178.0,82.66
+Região,Sudeste,,,Sudeste,Tríplice Viral - 1° Dose,2023,874881.0,966143.0,90.55
+Região,Sul,,,Sul,Tríplice Viral - 1° Dose,2023,335558.0,357609.0,93.83
+Região,Centro-Oeste,,,Centro-Oeste,Tríplice Viral - 1° Dose,2024,202516.0,215362.0,94.04
+Região,Nordeste,,,Nordeste,Tríplice Viral - 1° Dose,2024,625659.0,667114.0,93.79
+Região,Norte,,,Norte,Tríplice Viral - 1° Dose,2024,243201.0,265660.0,91.55
+Região,Sudeste,,,Sudeste,Tríplice Viral - 1° Dose,2024,883706.0,904335.0,97.72
+Região,Sul,,,Sul,Tríplice Viral - 1° Dose,2024,337933.0,336800.0,100.34
+Região,Centro-Oeste,,,Centro-Oeste,Tríplice Viral - 1° Dose,2025,199864.0,215362.0,92.8
+Região,Nordeste,,,Nordeste,Tríplice Viral - 1° Dose,2025,615121.0,667114.0,92.21
+Região,Norte,,,Norte,Tríplice Viral - 1° Dose,2025,233312.0,265660.0,87.82
+Região,Sudeste,,,Sudeste,Tríplice Viral - 1° Dose,2025,852875.0,904335.0,94.31
+Região,Sul,,,Sul,Tríplice Viral - 1° Dose,2025,324548.0,336800.0,96.36
+Brasil,Brasil,,,,Penta (DTP/HepB/Hib),2023,2167128.0,2537511.0,85.4
+Brasil,Brasil,,,,Penta (DTP/HepB/Hib),2024,2166315.0,2389271.0,90.67
+Brasil,Brasil,,,,Penta (DTP/HepB/Hib),2025,2133516.0,2389271.0,89.3
+Brasil,Brasil,,,,Pneumocócica Conjugada,2023,2271310.0,2537511.0,89.51
+Brasil,Brasil,,,,Pneumocócica Conjugada,2024,2233481.0,2389271.0,93.48
+Brasil,Brasil,,,,Pneumocócica Conjugada,2025,2255380.0,2389271.0,94.4
+Brasil,Brasil,,,,Poliomielite,2023,2188203.0,2537511.0,86.23
+Brasil,Brasil,,,,Poliomielite,2024,2171259.0,2389271.0,90.88
+Brasil,Brasil,,,,Poliomielite,2025,2122280.0,2389271.0,88.83
+Brasil,Brasil,,,,Tríplice Viral - 1° Dose,2023,2281329.0,2537511.0,89.9
+Brasil,Brasil,,,,Tríplice Viral - 1° Dose,2024,2293015.0,2389271.0,95.97
+Brasil,Brasil,,,,Tríplice Viral - 1° Dose,2025,2225720.0,2389271.0,93.15

@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang='pt-BR'>
+<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=iso-8859-1'>
+<title>TabnetBD 1.0 -   Imunizações - Cobertura - Brasil </title>
+<body><center>
+</center>
+
+<link rel="stylesheet" href="CITO/tabnet2.min.css" type="text/css">
+
+        <div name="governo" class="todalargura">
+
+                    <div class="Escondido" style="background-color: #ffcc00;">
+
+                       <div>
+
+                           <a href="http://www.saude.gov.br" target="_blank">
+
+                               <img alt="Ministério da Saúde" src="http://www.datasus.gov.br/gifs/principal_r1_c1_res.gif" height="21" id="img1" />
+
+                           </a>
+
+                       </div>
+
+                   </div>
+
+               <div class="testeira" cellspacing="0" cellpadding="0">
+
+                   <div class="info_saude">
+
+                       <a href="/tabnet/tabnet.htm" alt="Informações de Saúde" title="Informações de Saúde">Informa&ccedil;&otilde;es de Sa&uacute;de</a>
+
+                   </div>
+
+                   <div class="marca_tabnet">
+
+                       <p>DATASUS<span>&nbsp;&nbsp;Tecnologia da Informa&ccedil;&atilde;o a Servi&ccedil;o do SUS<a href="http://www.datasus.gov.br" alt="MS/SE/Datasus" title="MS/SE/Datasus"></a></span></p>
+
+                   </div>
+
+                   <div class="ajuda">
+
+                       <a href="/tabnet/tabdescr.htm">Ajuda</a>
+
+                   </div>
+
+                   <div class="notific">
+
+                       <a href="bd_pni/Imun_cobertura_desde_1994.pdf">Notas T&eacute;cnicas</a></p>
+
+                   </div> 
+
+                   <div class="datasus">
+
+                       <p>DATASUS</p>
+
+                   </div>
+
+               </div>
+
+           </div>  
+
+<center>
+
+<H2>  Imunizações - Cobertura - Brasil </H2>
+<h3>Hepatite B idade <= 30 dias por Ano segundo Região</h3>
+<b>Ano:</b> 2014-2022
+<p>
+<p>
+<!--
+select
+    case
+    when  SUBSTR(CO_UF,1,1) = '1' then '#   11 Região Norte'
+    when  SUBSTR(CO_UF,1,1) = '2' then '#   22 Região Nordeste'
+    when  SUBSTR(CO_UF,1,1) = '3' then '#   33 Região Sudeste'
+    when  SUBSTR(CO_UF,1,1) = '4' then '#   44 Região Sul'
+    when  SUBSTR(CO_UF,1,1) = '5' then '#   55 Região Centro-Oeste'
+    when  SUBSTR(CO_UF,1,1) = '0' then '#   60 Ignorado/Exterior'
+else 'Ignorado' end as "Região",
+  case
+    when  CO_ANO = '1994' then '#   11994'
+    when  CO_ANO = '1995' then '#   21995'
+    when  CO_ANO = '1996' then '#   31996'
+    when  CO_ANO = '1997' then '#   41997'
+    when  CO_ANO = '1998' then '#   51998'
+    when  CO_ANO = '1999' then '#   61999'
+    when  CO_ANO = '2000' then '#   72000'
+    when  CO_ANO = '2001' then '#   82001'
+    when  CO_ANO = '2002' then '#   92002'
+    when  CO_ANO = '2003' then '#  102003'
+    when  CO_ANO = '2004' then '#  112004'
+    when  CO_ANO = '2005' then '#  122005'
+    when  CO_ANO = '2006' then '#  132006'
+    when  CO_ANO = '2007' then '#  142007'
+    when  CO_ANO = '2008' then '#  152008'
+    when  CO_ANO = '2009' then '#  162009'
+    when  CO_ANO = '2010' then '#  172010'
+    when  CO_ANO = '2011' then '#  182011'
+    when  CO_ANO = '2012' then '#  192012'
+    when  CO_ANO = '2013' then '#  202013'
+    when  CO_ANO = '2014' then '#  212014'
+    when  CO_ANO = '2015' then '#  222015'
+    when  CO_ANO = '2016' then '#  232016'
+    when  CO_ANO = '2017' then '#  242017'
+    when  CO_ANO = '2018' then '#  252018'
+    when  CO_ANO = '2019' then '#  262019'
+    when  CO_ANO = '2020' then '#  272020'
+    when  CO_ANO = '2021' then '#  282021'
+    when  CO_ANO = '2022' then '#  292022'
+else 'Ignorado' end as "Ano",
+   case when sum(case when FATO.CO_IMUNO = '099' then NU_POPULACAO end)  > 0 then sum(case when FATO.CO_IMUNO = '099' then QT_DOSE end)* 100/sum(case when FATO.CO_IMUNO = '099' then NU_POPULACAO end) else 0 end as "Hepatite B idade <= 30 dias"
+from tb_tbn_pni_cobertura_vacinal fato
+where (fato.CO_ANO < '2023')
+  and (CO_ANO between 2014 and 2022)
+group by cube(  case
+    when  SUBSTR(CO_UF,1,1) = '1' then '#   11 Região Norte'
+    when  SUBSTR(CO_UF,1,1) = '2' then '#   22 Região Nordeste'
+    when  SUBSTR(CO_UF,1,1) = '3' then '#   33 Região Sudeste'
+    when  SUBSTR(CO_UF,1,1) = '4' then '#   44 Região Sul'
+    when  SUBSTR(CO_UF,1,1) = '5' then '#   55 Região Centro-Oeste'
+    when  SUBSTR(CO_UF,1,1) = '0' then '#   60 Ignorado/Exterior'
+else 'Ignorado' end,
+  case
+    when  CO_ANO = '1994' then '#   11994'
+    when  CO_ANO = '1995' then '#   21995'
+    when  CO_ANO = '1996' then '#   31996'
+    when  CO_ANO = '1997' then '#   41997'
+    when  CO_ANO = '1998' then '#   51998'
+    when  CO_ANO = '1999' then '#   61999'
+    when  CO_ANO = '2000' then '#   72000'
+    when  CO_ANO = '2001' then '#   82001'
+    when  CO_ANO = '2002' then '#   92002'
+    when  CO_ANO = '2003' then '#  102003'
+    when  CO_ANO = '2004' then '#  112004'
+    when  CO_ANO = '2005' then '#  122005'
+    when  CO_ANO = '2006' then '#  132006'
+    when  CO_ANO = '2007' then '#  142007'
+    when  CO_ANO = '2008' then '#  152008'
+    when  CO_ANO = '2009' then '#  162009'
+    when  CO_ANO = '2010' then '#  172010'
+    when  CO_ANO = '2011' then '#  182011'
+    when  CO_ANO = '2012' then '#  192012'
+    when  CO_ANO = '2013' then '#  202013'
+    when  CO_ANO = '2014' then '#  212014'
+    when  CO_ANO = '2015' then '#  222015'
+    when  CO_ANO = '2016' then '#  232016'
+    when  CO_ANO = '2017' then '#  242017'
+    when  CO_ANO = '2018' then '#  252018'
+    when  CO_ANO = '2019' then '#  262019'
+    when  CO_ANO = '2020' then '#  272020'
+    when  CO_ANO = '2021' then '#  282021'
+    when  CO_ANO = '2022' then '#  292022'
+else 'Ignorado' end)
+having  case when sum(case when FATO.CO_IMUNO = '099' then NU_POPULACAO end)  > 0 then sum(case when FATO.CO_IMUNO = '099' then QT_DOSE end)* 100/sum(case when FATO.CO_IMUNO = '099' then NU_POPULACAO end) else 0 end > 0 
+order by 1,2 
+
+ -->
+<!-- connect OK -->
+<!-- execute OK -->
+<!-- fetch   OK -->
+
+<!-- Tempo SQL execute() + fetchall() =  1.3900001049  segundos -->
+<!-- Google Chart tables-->
+<script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      function drawTable() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string','Região');
+        data.addColumn('number','2014');
+        data.addColumn('number','2015');
+        data.addColumn('number','2016');
+        data.addColumn('number','2017');
+        data.addColumn('number','2018');
+        data.addColumn('number','2019');
+        data.addColumn('number','2020');
+        data.addColumn('number','2021');
+        data.addColumn('number','2022');
+        data.addColumn('number',' Total');
+        data.addRows([
+           [" Total" ,{v: 88.5370566795 ,f: '88,54'} ,{v: 90.931554723 ,f: '90,93'} ,{v: 81.7456085799 ,f: '81,75'} ,{v: 85.8791492555 ,f: '85,88'} ,{v: 88.3999770122 ,f: '88,40'} ,{v: 78.5712306048 ,f: '78,57'} ,{v: 65.7731029775 ,f: '65,77'} ,{v: 67.0296772 ,f: '67,03'} ,{v: 82.7603076463 ,f: '82,76'} ,{v: 81.077612756 ,f: '81,08'} ]
+         , ["1 Região Norte" ,{v: 91.3769051589 ,f: '91,38'} ,{v: 89.4321039799 ,f: '89,43'} ,{v: 72.6812669052 ,f: '72,68'} ,{v: 82.3456774725 ,f: '82,35'} ,{v: 87.5063588339 ,f: '87,51'} ,{v: 85.9892535022 ,f: '85,99'} ,{v: 74.1783406896 ,f: '74,18'} ,{v: 75.7260630328 ,f: '75,73'} ,{v: 87.5244950943 ,f: '87,52'} ,{v: 82.8976090301 ,f: '82,90'} ]
+         , ["2 Região Nordeste" ,{v: 86.6432276214 ,f: '86,64'} ,{v: 90.8750648787 ,f: '90,88'} ,{v: 79.4076766813 ,f: '79,41'} ,{v: 86.0539722209 ,f: '86,05'} ,{v: 92.5685766084 ,f: '92,57'} ,{v: 80.5280455311 ,f: '80,53'} ,{v: 70.3425293154 ,f: '70,34'} ,{v: 72.1241740772 ,f: '72,12'} ,{v: 89.3361484777 ,f: '89,34'} ,{v: 83.0576180483 ,f: '83,06'} ]
+         , ["3 Região Sudeste" ,{v: 89.4016620691 ,f: '89,40'} ,{v: 90.831769649 ,f: '90,83'} ,{v: 85.4617562206 ,f: '85,46'} ,{v: 89.7135521414 ,f: '89,71'} ,{v: 88.9407621071 ,f: '88,94'} ,{v: 73.5879935717 ,f: '73,59'} ,{v: 57.9092057941 ,f: '57,91'} ,{v: 60.479386368 ,f: '60,48'} ,{v: 76.1965105479 ,f: '76,20'} ,{v: 79.3106877993 ,f: '79,31'} ]
+         , ["4 Região Sul" ,{v: 81.8067244505 ,f: '81,81'} ,{v: 89.8598976374 ,f: '89,86'} ,{v: 77.2382470401 ,f: '77,24'} ,{v: 76.5973376231 ,f: '76,60'} ,{v: 73.5688222488 ,f: '73,57'} ,{v: 75.7820403767 ,f: '75,78'} ,{v: 69.0248353887 ,f: '69,02'} ,{v: 64.6642402704 ,f: '64,66'} ,{v: 82.31261255 ,f: '82,31'} ,{v: 76.7129546004 ,f: '76,71'} ]
+         , ["5 Região Centro-Oeste" ,{v: 98.4133464794 ,f: '98,41'} ,{v: 95.3837953092 ,f: '95,38'} ,{v: 90.9151415668 ,f: '90,92'} ,{v: 86.406807621 ,f: '86,41'} ,{v: 97.5825308466 ,f: '97,58'} ,{v: 90.5767355734 ,f: '90,58'} ,{v: 71.4987423084 ,f: '71,50'} ,{v: 72.4248245872 ,f: '72,42'} ,{v: 85.2246693742 ,f: '85,22'} ,{v: 87.4929676561 ,f: '87,49'} ]
+        ]);
+
+
+        var table = new google.visualization.Table(document.getElementById('table_div'));
+        var cssClasses = {headerCell: 'google-visualization-table-th cabecColuna'};
+         table.draw(data,{allowHtml: true,showRowNumber: false, frozenColumns: 1, cssClassNames: cssClasses})
+      }
+    </script>
+
+<div id='table_div' style='width: 100%; height: 100%'></div>
+
+<DIV CLASS="nivel2">
+<br/>
+<table class="escondido">
+<tr>
+<td><A HREF=csv/cpnibr17941077850.xlsx>Copia para Excel</A></td>
+<td><A HREF=csv/cpnibr17941077850.csv>Salva como CSV</A></td>
+<td><A HREF=csv/cpnibr17941077850.tab>Copia para TabWin</A></td>
+</tr></table>
+</DIV>
+<p>
+<p>
+</div>
+
+<div class="container">
+
+<link rel="stylesheet" href="CITO/tabnetbds.css" type="text/css">
+
+ <div align="left" style="width: 750px; height: 100%" ><strong>Fonte:</strong> <a href="http://pni.datasus.gov.br/" target="_blank">Sistema de Informação do Programa Nacional de Imunizações (SI-PNI/CGPNI/DEIDT/SVS/MS)</a></div><br><br>
+
+ <div align="left" style="width: 750px; height: 100%" ><strong>Notas:</strong></div>
+
+<div align="left" style="width: 750px; height: 100%" ><ul></div>
+
+<div align="left" style="width: 750px; height: 100%" ><li>Não considerar na extração dos dados do TABNET Cobertura Vacinal a coluna e linha com o TOTAL.</li></div>
+
+<div align="left" style="width: 750px; height: 100%" ><li>As bases de dados disponíveis envolvem as vacinações a partir de 1994 até 2022.</li></div>
+
+<div align="left" style="width: 750px; height: 100%" ><li>Os dados a partir de 2023 encontram-se disponíveis nos painéis de <a href="https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_VACINACAO_CALENDARIO_NACIONAL_MENU_COBERTURA/SEIDIGI_DEMAS_VACINACAO_CALENDARIO_NACIONAL_MENU_COBERTURA.html" target="_blank">COBERTURA VACINAL.</a></li></div>
+
+<div align="left" style="width: 750px; height: 100%" ><li>Última atualização dos dados: maio de 2023.</div>
+
+ </li>
+
+</ul>
+
+ <BR>
+
+ <p>
+
+ <p>
+
+</center>
+</body></html>

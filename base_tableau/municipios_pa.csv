@@ -1,0 +1,145 @@
+cod_ibge7,cod_ibge6,municipio,mesorregiao,microrregiao,regiao_imediata,regiao_intermediaria,idhm_2010,idhm_educacao_2010,idhm_longevidade_2010,idhm_renda_2010,faixa_idhm,nascidos_vivos_2023,nascidos_vivos_2024,nascidos_vivos_2025_prelim,porte_nascidos_vivos
+1500107,150010,Abaetetuba,Nordeste Paraense,Cametá,Abaetetuba,Belém,0.628,0.537,0.798,0.579,Médio,2453,2277,2360,Mais de 1.500
+1500131,150013,Abel Figueiredo,Sudeste Paraense,Paragominas,Marabá,Marabá,0.622,0.481,0.8,0.625,Médio,118,94,87,Até 200
+1500206,150020,Acará,Nordeste Paraense,Tomé-Açu,Belém,Belém,0.506,0.332,0.757,0.517,Baixo,979,923,933,501-1.500
+1500305,150030,Afuá,Marajó,Furos de Breves,Breves,Breves,0.489,0.311,0.774,0.485,Muito baixo,1022,959,1017,501-1.500
+1500404,150040,Alenquer,Baixo Amazonas,Santarém,Santarém,Santarém,0.564,0.436,0.779,0.529,Baixo,1092,1079,1110,501-1.500
+1500503,150050,Almeirim,Baixo Amazonas,Almeirim,Almeirim - Porto de Moz,Altamira,0.642,0.497,0.809,0.659,Médio,655,622,579,501-1.500
+1500602,150060,Altamira,Sudoeste Paraense,Altamira,Altamira,Altamira,0.665,0.548,0.811,0.662,Médio,2226,2057,2152,Mais de 1.500
+1500701,150070,Anajás,Marajó,Furos de Breves,Breves,Breves,0.484,0.29,0.774,0.506,Muito baixo,799,773,788,501-1.500
+1500800,150080,Ananindeua,Metropolitana de Belém,Belém,Belém,Belém,0.718,0.658,0.821,0.684,Alto,6142,5736,5778,Mais de 1.500
+1500859,150085,Anapu,Sudoeste Paraense,Altamira,Altamira,Altamira,0.548,0.371,0.788,0.563,Baixo,580,546,554,501-1.500
+1500909,150090,Augusto Corrêa,Nordeste Paraense,Bragantina,Bragança,Castanhal,0.52,0.38,0.772,0.48,Baixo,767,708,737,501-1.500
+1500958,150095,Aurora do Pará,Nordeste Paraense,Guamá,Paragominas,Castanhal,0.519,0.358,0.773,0.504,Baixo,396,354,322,201-500
+1501006,150100,Aveiro,Sudoeste Paraense,Itaituba,Itaituba,Santarém,0.541,0.45,0.748,0.47,Baixo,154,177,175,Até 200
+1501105,150110,Bagre,Marajó,Portel,Breves,Breves,0.471,0.28,0.777,0.481,Muito baixo,561,490,549,201-500
+1501204,150120,Baião,Nordeste Paraense,Cametá,Tucuruí,Marabá,0.578,0.467,0.77,0.538,Baixo,508,476,452,201-500
+1501253,150125,Bannach,Sudeste Paraense,São Félix do Xingu,Redenção,Redenção,0.594,0.42,0.784,0.635,Baixo,48,49,41,Até 200
+1501303,150130,Barcarena,Metropolitana de Belém,Belém,Belém,Belém,0.662,0.564,0.801,0.643,Médio,2156,1991,2040,Mais de 1.500
+1501451,150145,Belterra,Baixo Amazonas,Santarém,Santarém,Santarém,0.588,0.478,0.775,0.548,Baixo,312,295,272,201-500
+1501402,150140,Belém,Metropolitana de Belém,Belém,Belém,Belém,0.746,0.673,0.822,0.751,Alto,15146,14153,13914,Mais de 1.500
+1501501,150150,Benevides,Metropolitana de Belém,Belém,Belém,Belém,0.665,0.592,0.798,0.623,Médio,874,831,795,501-1.500
+1501576,150157,Bom Jesus do Tocantins,Sudeste Paraense,Paragominas,Marabá,Marabá,0.589,0.437,0.777,0.601,Baixo,238,272,257,201-500
+1501600,150160,Bonito,Nordeste Paraense,Bragantina,Capanema,Castanhal,0.546,0.398,0.77,0.531,Baixo,195,170,166,Até 200
+1501709,150170,Bragança,Nordeste Paraense,Bragantina,Bragança,Castanhal,0.6,0.486,0.755,0.589,Médio,1859,1794,1794,Mais de 1.500
+1501725,150172,Brasil Novo,Sudoeste Paraense,Altamira,Altamira,Altamira,0.613,0.451,0.809,0.632,Médio,310,303,308,201-500
+1501758,150175,Brejo Grande do Araguaia,Sudeste Paraense,Marabá,Marabá,Marabá,0.591,0.473,0.743,0.588,Baixo,91,81,72,Até 200
+1501782,150178,Breu Branco,Sudeste Paraense,Tucuruí,Tucuruí,Marabá,0.568,0.422,0.781,0.555,Baixo,740,666,674,501-1.500
+1501808,150180,Breves,Marajó,Furos de Breves,Breves,Breves,0.503,0.312,0.778,0.524,Baixo,2799,2515,2529,Mais de 1.500
+1501907,150190,Bujaru,Metropolitana de Belém,Castanhal,Belém,Belém,0.552,0.437,0.779,0.495,Baixo,427,365,393,201-500
+1502004,150200,Cachoeira do Arari,Marajó,Arari,Soure-Salvaterra,Breves,0.546,0.398,0.778,0.525,Baixo,354,292,268,201-500
+1501956,150195,Cachoeira do Piriá,Nordeste Paraense,Guamá,Bragança,Castanhal,0.473,0.303,0.779,0.449,Muito baixo,295,257,313,201-500
+1502103,150210,Cametá,Nordeste Paraense,Cametá,Cametá,Belém,0.577,0.474,0.754,0.538,Baixo,2209,2080,2128,Mais de 1.500
+1502152,150215,Canaã dos Carajás,Sudeste Paraense,Parauapebas,Parauapebas,Marabá,0.673,0.569,0.801,0.67,Médio,1610,1777,1968,Mais de 1.500
+1502202,150220,Capanema,Nordeste Paraense,Bragantina,Capanema,Castanhal,0.655,0.58,0.794,0.61,Médio,937,884,865,501-1.500
+1502301,150230,Capitão Poço,Nordeste Paraense,Guamá,Capitão Poço,Castanhal,0.548,0.385,0.747,0.573,Baixo,775,809,763,501-1.500
+1502400,150240,Castanhal,Metropolitana de Belém,Castanhal,Castanhal,Castanhal,0.673,0.582,0.8,0.654,Médio,2916,2683,2831,Mais de 1.500
+1502509,150250,Chaves,Marajó,Arari,Breves,Breves,0.453,0.234,0.769,0.516,Muito baixo,392,330,351,201-500
+1502608,150260,Colares,Nordeste Paraense,Salgado,Belém,Belém,0.602,0.528,0.763,0.541,Médio,149,126,115,Até 200
+1502707,150270,Conceição do Araguaia,Sudeste Paraense,Conceição do Araguaia,Redenção,Redenção,0.64,0.54,0.77,0.631,Médio,688,617,592,501-1.500
+1502756,150275,Concórdia do Pará,Nordeste Paraense,Tomé-Açu,Belém,Belém,0.566,0.438,0.741,0.56,Baixo,455,442,471,201-500
+1502764,150276,Cumaru do Norte,Sudeste Paraense,São Félix do Xingu,Redenção,Redenção,0.55,0.33,0.795,0.635,Baixo,164,158,151,Até 200
+1502772,150277,Curionópolis,Sudeste Paraense,Parauapebas,Parauapebas,Marabá,0.636,0.536,0.809,0.592,Médio,350,306,336,201-500
+1502806,150280,Curralinho,Marajó,Furos de Breves,Breves,Breves,0.502,0.323,0.769,0.508,Baixo,674,689,654,501-1.500
+1502855,150285,Curuá,Baixo Amazonas,Santarém,Oriximiná,Santarém,0.578,0.495,0.78,0.501,Baixo,215,210,203,201-500
+1502905,150290,Curuçá,Nordeste Paraense,Salgado,Castanhal,Castanhal,0.582,0.48,0.758,0.542,Baixo,456,421,459,201-500
+1502939,150293,Dom Eliseu,Sudeste Paraense,Paragominas,Paragominas,Castanhal,0.615,0.502,0.763,0.606,Médio,611,621,548,501-1.500
+1502954,150295,Eldorado do Carajás,Sudeste Paraense,Parauapebas,Parauapebas,Marabá,0.56,0.405,0.757,0.572,Baixo,436,374,413,201-500
+1503002,150300,Faro,Baixo Amazonas,Óbidos,Oriximiná,Santarém,0.563,0.47,0.756,0.501,Baixo,121,90,128,Até 200
+1503044,150304,Floresta do Araguaia,Sudeste Paraense,Conceição do Araguaia,Redenção,Redenção,0.583,0.437,0.792,0.573,Baixo,327,308,287,201-500
+1503077,150307,Garrafão do Norte,Nordeste Paraense,Guamá,Capitão Poço,Castanhal,0.526,0.353,0.763,0.54,Baixo,387,366,422,201-500
+1503093,150309,Goianésia do Pará,Sudeste Paraense,Paragominas,Tucuruí,Marabá,0.56,0.404,0.743,0.585,Baixo,459,372,381,201-500
+1503101,150310,Gurupá,Marajó,Portel,Breves,Breves,0.509,0.333,0.777,0.51,Baixo,684,659,702,501-1.500
+1503200,150320,Igarapé-Açu,Nordeste Paraense,Bragantina,Castanhal,Castanhal,0.595,0.49,0.743,0.579,Baixo,473,469,458,201-500
+1503309,150330,Igarapé-Miri,Nordeste Paraense,Cametá,Abaetetuba,Belém,0.547,0.413,0.77,0.514,Baixo,1019,1081,1036,501-1.500
+1503408,150340,Inhangapi,Metropolitana de Belém,Castanhal,Castanhal,Castanhal,0.572,0.456,0.748,0.55,Baixo,139,157,140,Até 200
+1503457,150345,Ipixuna do Pará,Nordeste Paraense,Guamá,Paragominas,Castanhal,0.489,0.304,0.757,0.508,Muito baixo,582,568,533,501-1.500
+1503507,150350,Irituia,Nordeste Paraense,Guamá,Castanhal,Castanhal,0.559,0.427,0.763,0.536,Baixo,427,349,353,201-500
+1503606,150360,Itaituba,Sudoeste Paraense,Itaituba,Itaituba,Santarém,0.64,0.51,0.8,0.644,Médio,2340,2080,2141,Mais de 1.500
+1503705,150370,Itupiranga,Sudeste Paraense,Tucuruí,Marabá,Marabá,0.528,0.364,0.746,0.543,Baixo,754,676,660,501-1.500
+1503754,150375,Jacareacanga,Sudoeste Paraense,Itaituba,Itaituba,Santarém,0.505,0.279,0.8,0.577,Baixo,643,698,751,501-1.500
+1503804,150380,Jacundá,Sudeste Paraense,Tucuruí,Marabá,Marabá,0.622,0.509,0.752,0.628,Médio,598,549,574,501-1.500
+1503903,150390,Juruti,Baixo Amazonas,Óbidos,Oriximiná,Santarém,0.592,0.501,0.756,0.547,Baixo,1139,1010,1093,501-1.500
+1504000,150400,Limoeiro do Ajuru,Nordeste Paraense,Cametá,Cametá,Belém,0.541,0.425,0.754,0.493,Baixo,391,372,403,201-500
+1504109,150410,Magalhães Barata,Nordeste Paraense,Salgado,Castanhal,Castanhal,0.597,0.507,0.801,0.524,Baixo,90,90,79,Até 200
+1504208,150420,Marabá,Sudeste Paraense,Marabá,Marabá,Marabá,0.668,0.564,0.785,0.673,Médio,4356,4020,4200,Mais de 1.500
+1504307,150430,Maracanã,Nordeste Paraense,Salgado,Castanhal,Castanhal,0.57,0.454,0.764,0.534,Baixo,318,336,302,201-500
+1504406,150440,Marapanim,Nordeste Paraense,Salgado,Castanhal,Castanhal,0.609,0.521,0.76,0.57,Médio,297,256,264,201-500
+1504422,150442,Marituba,Metropolitana de Belém,Belém,Belém,Belém,0.676,0.628,0.793,0.621,Médio,1512,1297,1235,501-1.500
+1504455,150445,Medicilândia,Sudoeste Paraense,Altamira,Altamira,Altamira,0.582,0.408,0.8,0.605,Baixo,428,444,504,201-500
+1504505,150450,Melgaço,Marajó,Portel,Breves,Breves,0.418,0.207,0.776,0.454,Muito baixo,567,516,534,501-1.500
+1504604,150460,Mocajuba,Nordeste Paraense,Cametá,Cametá,Belém,0.575,0.467,0.754,0.539,Baixo,422,502,514,501-1.500
+1504703,150470,Moju,Nordeste Paraense,Tomé-Açu,Abaetetuba,Belém,0.547,0.375,0.757,0.578,Baixo,1178,1101,1128,501-1.500
+1504752,150475,Mojuí dos Campos,Baixo Amazonas,Santarém,Santarém,Santarém,,,,,,331,294,264,201-500
+1504802,150480,Monte Alegre,Baixo Amazonas,Santarém,Santarém,Santarém,0.589,0.495,0.764,0.541,Baixo,1154,942,1042,501-1.500
+1504901,150490,Muaná,Marajó,Arari,Soure-Salvaterra,Breves,0.547,0.391,0.775,0.54,Baixo,575,593,556,501-1.500
+1504059,150405,Mãe do Rio,Nordeste Paraense,Guamá,Paragominas,Castanhal,0.599,0.458,0.763,0.615,Baixo,506,491,466,201-500
+1504950,150495,Nova Esperança do Piriá,Nordeste Paraense,Guamá,Capitão Poço,Castanhal,0.502,0.346,0.757,0.482,Baixo,269,281,282,201-500
+1504976,150497,Nova Ipixuna,Sudeste Paraense,Tucuruí,Marabá,Marabá,0.581,0.435,0.766,0.59,Baixo,171,159,183,Até 200
+1505007,150500,Nova Timboteua,Nordeste Paraense,Bragantina,Capanema,Castanhal,0.609,0.507,0.791,0.564,Médio,144,121,130,Até 200
+1505031,150503,Novo Progresso,Sudoeste Paraense,Itaituba,Itaituba,Santarém,0.673,0.519,0.828,0.709,Médio,686,635,735,501-1.500
+1505064,150506,Novo Repartimento,Sudeste Paraense,Tucuruí,Tucuruí,Marabá,0.537,0.376,0.741,0.557,Baixo,1159,1050,1076,501-1.500
+1505205,150520,Oeiras do Pará,Nordeste Paraense,Cametá,Cametá,Belém,0.507,0.344,0.754,0.502,Baixo,634,607,572,501-1.500
+1505304,150530,Oriximiná,Baixo Amazonas,Óbidos,Oriximiná,Santarém,0.623,0.52,0.778,0.599,Médio,1366,1209,1271,501-1.500
+1505437,150543,Ourilândia do Norte,Sudeste Paraense,São Félix do Xingu,Tucumã - São Félix do Xingu,Redenção,0.624,0.467,0.795,0.653,Médio,564,599,641,501-1.500
+1505403,150540,Ourém,Nordeste Paraense,Guamá,Capitão Poço,Castanhal,0.568,0.438,0.727,0.575,Baixo,224,256,267,201-500
+1505486,150548,Pacajá,Sudoeste Paraense,Altamira,Tucuruí,Marabá,0.515,0.338,0.746,0.541,Baixo,746,690,692,501-1.500
+1505494,150549,Palestina do Pará,Sudeste Paraense,Marabá,Marabá,Marabá,0.589,0.467,0.761,0.574,Baixo,104,95,84,Até 200
+1505502,150550,Paragominas,Sudeste Paraense,Paragominas,Paragominas,Castanhal,0.645,0.514,0.781,0.667,Médio,1804,1681,1697,Mais de 1.500
+1505536,150553,Parauapebas,Sudeste Paraense,Parauapebas,Parauapebas,Marabá,0.715,0.644,0.809,0.701,Alto,4823,4486,4741,Mais de 1.500
+1505551,150555,Pau D'Arco,Sudeste Paraense,Redenção,Redenção,Redenção,0.574,0.443,0.748,0.571,Baixo,141,108,106,Até 200
+1505601,150560,Peixe-Boi,Nordeste Paraense,Bragantina,Capanema,Castanhal,0.581,0.478,0.754,0.543,Baixo,70,71,91,Até 200
+1505635,150563,Piçarra,Sudeste Paraense,Redenção,Marabá,Marabá,0.563,0.402,0.792,0.561,Baixo,151,170,171,Até 200
+1505650,150565,Placas,Baixo Amazonas,Santarém,Itaituba,Santarém,0.552,0.404,0.77,0.541,Baixo,316,317,275,201-500
+1505700,150570,Ponta de Pedras,Marajó,Arari,Soure-Salvaterra,Breves,0.562,0.412,0.773,0.558,Baixo,326,332,311,201-500
+1505809,150580,Portel,Marajó,Portel,Breves,Breves,0.483,0.286,0.767,0.513,Muito baixo,1549,1517,1494,Mais de 1.500
+1505908,150590,Porto de Moz,Baixo Amazonas,Almeirim,Almeirim - Porto de Moz,Altamira,0.503,0.322,0.77,0.512,Baixo,640,634,649,501-1.500
+1506005,150600,Prainha,Baixo Amazonas,Santarém,Santarém,Santarém,0.523,0.359,0.779,0.512,Baixo,680,679,628,501-1.500
+1506104,150610,Primavera,Nordeste Paraense,Bragantina,Capanema,Castanhal,0.577,0.435,0.772,0.571,Baixo,169,126,126,Até 200
+1506112,150611,Quatipuru,Nordeste Paraense,Bragantina,Capanema,Castanhal,0.543,0.397,0.732,0.55,Baixo,144,130,128,Até 200
+1506138,150613,Redenção,Sudeste Paraense,Redenção,Redenção,Redenção,0.672,0.561,0.804,0.674,Médio,1556,1529,1624,Mais de 1.500
+1506161,150616,Rio Maria,Sudeste Paraense,Redenção,Xinguara,Redenção,0.638,0.495,0.804,0.651,Médio,264,250,268,201-500
+1506187,150618,Rondon do Pará,Sudeste Paraense,Paragominas,Marabá,Marabá,0.602,0.457,0.788,0.606,Médio,584,489,505,201-500
+1506195,150619,Rurópolis,Sudoeste Paraense,Itaituba,Itaituba,Santarém,0.548,0.392,0.764,0.548,Baixo,416,439,411,201-500
+1506203,150620,Salinópolis,Nordeste Paraense,Salgado,Capanema,Castanhal,0.647,0.541,0.798,0.628,Médio,707,685,627,501-1.500
+1506302,150630,Salvaterra,Marajó,Arari,Soure-Salvaterra,Breves,0.608,0.488,0.793,0.58,Médio,304,279,278,201-500
+1506351,150635,Santa Bárbara do Pará,Metropolitana de Belém,Belém,Belém,Belém,0.627,0.546,0.784,0.575,Médio,272,279,253,201-500
+1506401,150640,Santa Cruz do Arari,Marajó,Arari,Soure-Salvaterra,Breves,0.557,0.461,0.775,0.483,Baixo,75,84,74,Até 200
+1506500,150650,Santa Izabel do Pará,Metropolitana de Belém,Castanhal,Belém,Belém,0.659,0.576,0.798,0.622,Médio,842,820,756,501-1.500
+1506559,150655,Santa Luzia do Pará,Nordeste Paraense,Guamá,Bragança,Castanhal,0.546,0.424,0.724,0.53,Baixo,276,273,297,201-500
+1506583,150658,Santa Maria das Barreiras,Sudeste Paraense,Conceição do Araguaia,Redenção,Redenção,0.544,0.37,0.783,0.555,Baixo,222,194,174,Até 200
+1506609,150660,Santa Maria do Pará,Nordeste Paraense,Bragantina,Castanhal,Castanhal,0.598,0.471,0.764,0.595,Baixo,338,373,403,201-500
+1506708,150670,Santana do Araguaia,Sudeste Paraense,Conceição do Araguaia,Redenção,Redenção,0.602,0.478,0.774,0.591,Médio,633,625,598,501-1.500
+1506807,150680,Santarém,Baixo Amazonas,Santarém,Santarém,Santarém,0.691,0.648,0.807,0.632,Médio,6328,6013,6037,Mais de 1.500
+1506906,150690,Santarém Novo,Nordeste Paraense,Bragantina,Capanema,Castanhal,0.587,0.502,0.774,0.52,Baixo,88,70,110,Até 200
+1507003,150700,Santo Antônio do Tauá,Metropolitana de Belém,Castanhal,Belém,Belém,0.632,0.561,0.753,0.598,Médio,441,410,430,201-500
+1507755,150775,Sapucaia,Sudeste Paraense,Redenção,Xinguara,Redenção,0.59,0.405,0.792,0.639,Baixo,103,75,80,Até 200
+1507805,150780,Senador José Porfírio,Sudoeste Paraense,Altamira,Altamira,Altamira,0.514,0.338,0.754,0.533,Baixo,345,335,350,201-500
+1507904,150790,Soure,Marajó,Arari,Soure-Salvaterra,Breves,0.615,0.525,0.76,0.583,Médio,355,292,320,201-500
+1507102,150710,São Caetano de Odivelas,Nordeste Paraense,Salgado,Belém,Belém,0.585,0.473,0.767,0.552,Baixo,204,167,167,Até 200
+1507151,150715,São Domingos do Araguaia,Sudeste Paraense,Marabá,Marabá,Marabá,0.594,0.451,0.738,0.629,Baixo,364,330,333,201-500
+1507201,150720,São Domingos do Capim,Nordeste Paraense,Guamá,Castanhal,Castanhal,0.532,0.382,0.773,0.509,Baixo,424,432,429,201-500
+1507409,150740,São Francisco do Pará,Nordeste Paraense,Bragantina,Castanhal,Castanhal,0.608,0.502,0.785,0.571,Médio,205,206,206,201-500
+1507300,150730,São Félix do Xingu,Sudeste Paraense,São Félix do Xingu,Tucumã - São Félix do Xingu,Redenção,0.594,0.411,0.798,0.638,Baixo,1047,943,918,501-1.500
+1507458,150745,São Geraldo do Araguaia,Sudeste Paraense,Redenção,Marabá,Marabá,0.595,0.447,0.793,0.594,Baixo,434,353,384,201-500
+1507466,150746,São João da Ponta,Nordeste Paraense,Salgado,Castanhal,Castanhal,0.583,0.495,0.767,0.522,Baixo,76,82,80,Até 200
+1507474,150747,São João de Pirabas,Nordeste Paraense,Salgado,Capanema,Castanhal,0.539,0.393,0.753,0.529,Baixo,281,259,249,201-500
+1507508,150750,São João do Araguaia,Sudeste Paraense,Marabá,Marabá,Marabá,0.55,0.424,0.741,0.53,Baixo,178,147,181,Até 200
+1507607,150760,São Miguel do Guamá,Nordeste Paraense,Guamá,Castanhal,Castanhal,0.591,0.471,0.752,0.582,Baixo,865,816,861,501-1.500
+1507706,150770,São Sebastião da Boa Vista,Marajó,Furos de Breves,Breves,Breves,0.558,0.439,0.76,0.52,Baixo,513,484,484,201-500
+1507953,150795,Tailândia,Nordeste Paraense,Tomé-Açu,Abaetetuba,Belém,0.588,0.45,0.776,0.583,Baixo,1376,1352,1459,501-1.500
+1507961,150796,Terra Alta,Nordeste Paraense,Salgado,Castanhal,Castanhal,0.605,0.536,0.743,0.555,Médio,157,172,125,Até 200
+1507979,150797,Terra Santa,Baixo Amazonas,Óbidos,Oriximiná,Santarém,0.635,0.558,0.763,0.602,Médio,309,278,296,201-500
+1508001,150800,Tomé-Açu,Nordeste Paraense,Tomé-Açu,Belém,Belém,0.586,0.424,0.798,0.596,Baixo,1440,1336,1313,501-1.500
+1508035,150803,Tracuateua,Nordeste Paraense,Bragantina,Bragança,Castanhal,0.531,0.376,0.776,0.514,Baixo,410,365,393,201-500
+1508050,150805,Trairão,Sudoeste Paraense,Itaituba,Itaituba,Santarém,0.562,0.392,0.763,0.594,Baixo,305,241,249,201-500
+1508084,150808,Tucumã,Sudeste Paraense,São Félix do Xingu,Tucumã - São Félix do Xingu,Redenção,0.659,0.525,0.813,0.67,Médio,644,578,592,501-1.500
+1508100,150810,Tucuruí,Sudeste Paraense,Tucuruí,Tucuruí,Marabá,0.666,0.548,0.8,0.675,Médio,1377,1316,1371,501-1.500
+1508126,150812,Ulianópolis,Sudeste Paraense,Paragominas,Paragominas,Castanhal,0.604,0.425,0.759,0.682,Médio,440,433,406,201-500
+1508159,150815,Uruará,Sudoeste Paraense,Altamira,Altamira,Altamira,0.589,0.42,0.798,0.609,Baixo,735,705,699,501-1.500
+1508209,150820,Vigia,Nordeste Paraense,Salgado,Belém,Belém,0.617,0.516,0.768,0.594,Médio,596,513,557,501-1.500
+1508308,150830,Viseu,Nordeste Paraense,Guamá,Bragança,Castanhal,0.515,0.366,0.776,0.482,Baixo,897,873,915,501-1.500
+1508357,150835,Vitória do Xingu,Sudoeste Paraense,Altamira,Altamira,Altamira,0.596,0.451,0.792,0.594,Baixo,296,305,315,201-500
+1508407,150840,Xinguara,Sudeste Paraense,Redenção,Xinguara,Redenção,0.646,0.503,0.8,0.671,Médio,786,743,788,501-1.500
+1500347,150034,Água Azul do Norte,Sudeste Paraense,Parauapebas,Xinguara,Redenção,0.564,0.399,0.797,0.563,Baixo,217,206,210,201-500
+1505106,150510,Óbidos,Baixo Amazonas,Óbidos,Oriximiná,Santarém,0.594,0.499,0.756,0.556,Baixo,995,946,935,501-1.500
