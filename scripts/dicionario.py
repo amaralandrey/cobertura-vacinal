@@ -14,6 +14,7 @@ D = [
     ("cobertura_longa", "regiao", "texto", "Grande região (linhas de região, UF e município)", "Norte"),
     ("cobertura_longa", "ano", "inteiro", "Ano de referência da cobertura", "2014 a 2025"),
     ("cobertura_longa", "periodo", "texto", "Recorte didático do trabalho", "1. Pré-pandemia (2014-2019); 2. Pandemia (2020-2022); 3. Pós-pandemia (2023-2025)"),
+    ("cobertura_longa", "ano_mapa", "texto", "Sim nos anos selecionados para os mapas comparáveis (2014, 2019, 2022 e 2024); filtrar por Sim nos mapas", "Sim; Não"),
     ("cobertura_longa", "vacina", "texto", "Nome padronizado da vacina (igual nas duas fontes)", "Pentavalente; Poliomielite; Pneumocócica 10V; Tríplice viral D1"),
     ("cobertura_longa", "dose", "texto", "Dose considerada no indicador", "3ª dose; 2ª dose; 1ª dose"),
     ("cobertura_longa", "publico_alvo", "texto", "Público-alvo do indicador", "Menores de 1 ano; 1 ano"),

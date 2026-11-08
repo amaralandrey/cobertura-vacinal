@@ -13,6 +13,7 @@ import pandas as pd
 RAIZ = sys.argv[1]
 SAIDA = os.path.join(RAIZ, "base_tableau")
 META = 95.0
+ANOS_MAPA = [2014, 2019, 2022, 2024]  # anos dos mapas comparáveis pedidos no trabalho
 SOMENTE_OBRIGATORIAS = True  # False inclui BCG, Hepatite B, Febre amarela e Tríplice viral D2 (só 2014-2022)
 
 UF = {11: ("RO", "Rondônia"), 12: ("AC", "Acre"), 13: ("AM", "Amazonas"), 14: ("RR", "Roraima"), 15: ("PA", "Pará"),
@@ -121,6 +122,7 @@ f["cod_territorio"] = np.where(f.nivel == "Brasil", "BR", f.codigo)
 f["cod_ibge7"] = np.where(f.nivel == "Município", f.codigo.map(dict(zip(mun.cod_ibge6, mun.cod_ibge7))), None)
 f["ordem_nivel"] = f.nivel.map({"Brasil": 1, "Região": 2, "UF": 3, "Município": 4})
 f["periodo"] = f.ano.map(periodo)
+f["ano_mapa"] = np.where(f.ano.isin(ANOS_MAPA), "Sim", "Não")
 f["cobertura"] = f.cobertura.round(2)
 f["cobertura_valida"] = np.where(f.cobertura.notna() & (f.cobertura > 0), "Sim", "Não")
 f["meta_atingida"] = np.where(f.cobertura_valida == "Não", None, np.where(f.cobertura >= META, "Sim", "Não"))
@@ -134,7 +136,7 @@ f.loc[f.groupby(["nivel", "cod_territorio", "vacina"]).ano.diff() != 1, "cobertu
 f["variacao_anual_pp"] = (f.cobertura - f.cobertura_ano_anterior).round(2)
 
 cols = ["nivel", "ordem_nivel", "cod_territorio", "cod_ibge7", "territorio", "sigla_uf", "cod_uf", "regiao",
-        "ano", "periodo", "vacina", "dose", "publico_alvo", "vacina_obrigatoria", "vacina_fonte",
+        "ano", "periodo", "ano_mapa", "vacina", "dose", "publico_alvo", "vacina_obrigatoria", "vacina_fonte",
         "cobertura", "doses", "populacao", "cobertura_valida", "meta_atingida", "distancia_meta_pp",
         "cobertura_ano_anterior", "variacao_anual_pp", "fonte", "quebra_serie", "dado_provisorio"]
 f = f[cols]

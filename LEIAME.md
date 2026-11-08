@@ -23,7 +23,7 @@ Cuidados:
 
 1. Filtre sempre por `nivel` (Brasil, Região, UF ou Município). A tabela principal tem todos os níveis juntos.
 2. Use `cobertura` com agregação MÉDIA ou ATRIBUTO, nunca SOMA.
-3. Mapas: a pasta `mapas/` traz GeoJSON do IBGE. Ligue `ufs_BR.geojson` pelo campo `codarea` = `cod_uf` e `municipios_PA.geojson` pelo campo `codarea` = `cod_ibge7`.
+3. Mapas: a pasta `mapas/` traz GeoJSON do IBGE. Ligue `ufs_BR.geojson` pelo campo `codarea` = `cod_uf` e `municipios_PA.geojson` pelo campo `codarea` = `cod_ibge7`. Para os mapas comparáveis pedidos no trabalho (2014, 2019, 2022 e 2024), filtre `ano_mapa` = Sim.
 
 ## Fontes
 
