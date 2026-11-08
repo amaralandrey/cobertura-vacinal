@@ -1,5 +1,10 @@
 # Cobertura vacinal infantil: Brasil, regiões, UFs e municípios do Pará (2014–2025)
 
+## Painéis: pasta `tableau/`
+
+- `cobertura-vacinal.twbx`: workbook empacotado (dados incluídos) com 4 dashboards (Brasil, Regiões, Pará, Municípios) e a Story "Cobertura vacinal infantil". Abre no Tableau Desktop ou no Tableau Public.
+- `sintese_achados.md`: síntese dos achados e limitações, usada na página final da Story.
+
 ## Use no Tableau: pasta `base_tableau/`
 
 | Arquivo | Grão (uma linha por) | Uso |
