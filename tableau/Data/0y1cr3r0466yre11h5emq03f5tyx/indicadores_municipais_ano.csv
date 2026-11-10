@@ -1,0 +1,1727 @@
+cod_ibge6,ano,vacinas_obrigatorias_com_dado,n_vacinas_na_meta,classe_vacinas_na_meta,todas_4_na_meta,periodo,municipio
+150010,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Abaetetuba
+150010,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Abaetetuba
+150010,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Abaetetuba
+150010,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Abaetetuba
+150010,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Abaetetuba
+150010,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Abaetetuba
+150010,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Abaetetuba
+150010,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Abaetetuba
+150010,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Abaetetuba
+150010,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Abaetetuba
+150010,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Abaetetuba
+150010,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Abaetetuba
+150013,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Abel Figueiredo
+150013,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Abel Figueiredo
+150013,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Abel Figueiredo
+150013,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Abel Figueiredo
+150013,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Abel Figueiredo
+150013,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Abel Figueiredo
+150013,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Abel Figueiredo
+150013,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Abel Figueiredo
+150013,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Abel Figueiredo
+150013,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Abel Figueiredo
+150013,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Abel Figueiredo
+150013,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Abel Figueiredo
+150020,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Acará
+150020,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Acará
+150020,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Acará
+150020,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Acará
+150020,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Acará
+150020,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Acará
+150020,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Acará
+150020,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Acará
+150020,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Acará
+150020,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Acará
+150020,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Acará
+150020,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Acará
+150030,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Afuá
+150030,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Afuá
+150030,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Afuá
+150030,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Afuá
+150030,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Afuá
+150030,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Afuá
+150030,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Afuá
+150030,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Afuá
+150030,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Afuá
+150030,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Afuá
+150030,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Afuá
+150030,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Afuá
+150034,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Água Azul do Norte
+150034,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Água Azul do Norte
+150034,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Água Azul do Norte
+150034,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Água Azul do Norte
+150034,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Água Azul do Norte
+150034,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Água Azul do Norte
+150034,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Água Azul do Norte
+150034,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Água Azul do Norte
+150034,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Água Azul do Norte
+150034,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Água Azul do Norte
+150034,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Água Azul do Norte
+150034,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Água Azul do Norte
+150040,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Alenquer
+150040,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Alenquer
+150040,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Alenquer
+150040,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Alenquer
+150040,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Alenquer
+150040,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Alenquer
+150040,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Alenquer
+150040,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Alenquer
+150040,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Alenquer
+150040,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Alenquer
+150040,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Alenquer
+150040,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Alenquer
+150050,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Almeirim
+150050,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Almeirim
+150050,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Almeirim
+150050,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Almeirim
+150050,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Almeirim
+150050,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Almeirim
+150050,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Almeirim
+150050,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Almeirim
+150050,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Almeirim
+150050,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Almeirim
+150050,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Almeirim
+150050,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Almeirim
+150060,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Altamira
+150060,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Altamira
+150060,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Altamira
+150060,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Altamira
+150060,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Altamira
+150060,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Altamira
+150060,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Altamira
+150060,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Altamira
+150060,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Altamira
+150060,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Altamira
+150060,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Altamira
+150060,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Altamira
+150070,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Anajás
+150070,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Anajás
+150070,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Anajás
+150070,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Anajás
+150070,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Anajás
+150070,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Anajás
+150070,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Anajás
+150070,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Anajás
+150070,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Anajás
+150070,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Anajás
+150070,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Anajás
+150070,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Anajás
+150080,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Ananindeua
+150080,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ananindeua
+150080,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ananindeua
+150080,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ananindeua
+150080,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ananindeua
+150080,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ananindeua
+150080,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ananindeua
+150080,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ananindeua
+150080,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ananindeua
+150080,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ananindeua
+150080,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ananindeua
+150080,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ananindeua
+150085,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Anapu
+150085,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Anapu
+150085,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Anapu
+150085,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Anapu
+150085,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Anapu
+150085,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Anapu
+150085,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),Anapu
+150085,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Anapu
+150085,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Anapu
+150085,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Anapu
+150085,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Anapu
+150085,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Anapu
+150090,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Augusto Corrêa
+150090,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Augusto Corrêa
+150090,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Augusto Corrêa
+150090,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Augusto Corrêa
+150090,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Augusto Corrêa
+150090,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Augusto Corrêa
+150090,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Augusto Corrêa
+150090,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Augusto Corrêa
+150090,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Augusto Corrêa
+150090,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Augusto Corrêa
+150090,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Augusto Corrêa
+150090,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Augusto Corrêa
+150095,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Aurora do Pará
+150095,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Aurora do Pará
+150095,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Aurora do Pará
+150095,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Aurora do Pará
+150095,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Aurora do Pará
+150095,2019,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Aurora do Pará
+150095,2020,4,2,2 de 4,Não,2. Pandemia (2020-2022),Aurora do Pará
+150095,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Aurora do Pará
+150095,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Aurora do Pará
+150095,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Aurora do Pará
+150095,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Aurora do Pará
+150095,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Aurora do Pará
+150100,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Aveiro
+150100,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Aveiro
+150100,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Aveiro
+150100,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Aveiro
+150100,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Aveiro
+150100,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Aveiro
+150100,2020,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Aveiro
+150100,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Aveiro
+150100,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Aveiro
+150100,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Aveiro
+150100,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Aveiro
+150100,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Aveiro
+150110,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bagre
+150110,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bagre
+150110,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bagre
+150110,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bagre
+150110,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bagre
+150110,2019,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Bagre
+150110,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bagre
+150110,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bagre
+150110,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bagre
+150110,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bagre
+150110,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bagre
+150110,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bagre
+150120,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Baião
+150120,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Baião
+150120,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Baião
+150120,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Baião
+150120,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Baião
+150120,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Baião
+150120,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Baião
+150120,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Baião
+150120,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Baião
+150120,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Baião
+150120,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Baião
+150120,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Baião
+150125,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bannach
+150125,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bannach
+150125,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bannach
+150125,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bannach
+150125,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bannach
+150125,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bannach
+150125,2020,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Bannach
+150125,2021,4,3,3 de 4,Não,2. Pandemia (2020-2022),Bannach
+150125,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Bannach
+150125,2023,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Bannach
+150125,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Bannach
+150125,2025,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Bannach
+150130,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Barcarena
+150130,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Barcarena
+150130,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Barcarena
+150130,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Barcarena
+150130,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Barcarena
+150130,2019,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Barcarena
+150130,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Barcarena
+150130,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Barcarena
+150130,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Barcarena
+150130,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Barcarena
+150130,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Barcarena
+150130,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Barcarena
+150140,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Belém
+150140,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Belém
+150140,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Belém
+150140,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Belém
+150140,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Belém
+150140,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Belém
+150140,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Belém
+150140,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Belém
+150140,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Belém
+150140,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Belém
+150140,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Belém
+150140,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Belém
+150145,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Belterra
+150145,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Belterra
+150145,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Belterra
+150145,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Belterra
+150145,2018,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Belterra
+150145,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Belterra
+150145,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Belterra
+150145,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Belterra
+150145,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),Belterra
+150145,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Belterra
+150145,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Belterra
+150145,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Belterra
+150150,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Benevides
+150150,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Benevides
+150150,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Benevides
+150150,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Benevides
+150150,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Benevides
+150150,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Benevides
+150150,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Benevides
+150150,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Benevides
+150150,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Benevides
+150150,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Benevides
+150150,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Benevides
+150150,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Benevides
+150157,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Bom Jesus do Tocantins
+150157,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bom Jesus do Tocantins
+150157,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bom Jesus do Tocantins
+150157,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bom Jesus do Tocantins
+150157,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bom Jesus do Tocantins
+150157,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bom Jesus do Tocantins
+150157,2020,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Bom Jesus do Tocantins
+150157,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bom Jesus do Tocantins
+150157,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bom Jesus do Tocantins
+150157,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bom Jesus do Tocantins
+150157,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bom Jesus do Tocantins
+150157,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bom Jesus do Tocantins
+150160,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Bonito
+150160,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bonito
+150160,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Bonito
+150160,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bonito
+150160,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Bonito
+150160,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Bonito
+150160,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bonito
+150160,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bonito
+150160,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bonito
+150160,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Bonito
+150160,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Bonito
+150160,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Bonito
+150170,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Bragança
+150170,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Bragança
+150170,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bragança
+150170,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bragança
+150170,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bragança
+150170,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bragança
+150170,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bragança
+150170,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bragança
+150170,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bragança
+150170,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bragança
+150170,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bragança
+150170,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bragança
+150172,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Brasil Novo
+150172,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Brasil Novo
+150172,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Brasil Novo
+150172,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Brasil Novo
+150172,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Brasil Novo
+150172,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Brasil Novo
+150172,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Brasil Novo
+150172,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Brasil Novo
+150172,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Brasil Novo
+150172,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Brasil Novo
+150172,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Brasil Novo
+150172,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Brasil Novo
+150175,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Brejo Grande do Araguaia
+150175,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Brejo Grande do Araguaia
+150175,2016,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Brejo Grande do Araguaia
+150175,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Brejo Grande do Araguaia
+150175,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Brejo Grande do Araguaia
+150175,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Brejo Grande do Araguaia
+150175,2020,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Brejo Grande do Araguaia
+150175,2021,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Brejo Grande do Araguaia
+150175,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Brejo Grande do Araguaia
+150175,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Brejo Grande do Araguaia
+150175,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Brejo Grande do Araguaia
+150175,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Brejo Grande do Araguaia
+150178,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Breu Branco
+150178,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breu Branco
+150178,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breu Branco
+150178,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breu Branco
+150178,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breu Branco
+150178,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breu Branco
+150178,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Breu Branco
+150178,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Breu Branco
+150178,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Breu Branco
+150178,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Breu Branco
+150178,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Breu Branco
+150178,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Breu Branco
+150180,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breves
+150180,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breves
+150180,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breves
+150180,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breves
+150180,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breves
+150180,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Breves
+150180,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Breves
+150180,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Breves
+150180,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Breves
+150180,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Breves
+150180,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Breves
+150180,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Breves
+150190,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Bujaru
+150190,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bujaru
+150190,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Bujaru
+150190,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Bujaru
+150190,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Bujaru
+150190,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Bujaru
+150190,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bujaru
+150190,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bujaru
+150190,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Bujaru
+150190,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Bujaru
+150190,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Bujaru
+150190,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Bujaru
+150195,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Piriá
+150195,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Piriá
+150195,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Piriá
+150195,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Piriá
+150195,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Piriá
+150195,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Piriá
+150195,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cachoeira do Piriá
+150195,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cachoeira do Piriá
+150195,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cachoeira do Piriá
+150195,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Cachoeira do Piriá
+150195,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Cachoeira do Piriá
+150195,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Cachoeira do Piriá
+150200,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Arari
+150200,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Arari
+150200,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Arari
+150200,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Arari
+150200,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Arari
+150200,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cachoeira do Arari
+150200,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cachoeira do Arari
+150200,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cachoeira do Arari
+150200,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cachoeira do Arari
+150200,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Cachoeira do Arari
+150200,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Cachoeira do Arari
+150200,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Cachoeira do Arari
+150210,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Cametá
+150210,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cametá
+150210,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cametá
+150210,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cametá
+150210,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cametá
+150210,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cametá
+150210,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cametá
+150210,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cametá
+150210,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cametá
+150210,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Cametá
+150210,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Cametá
+150210,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Cametá
+150215,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Canaã dos Carajás
+150215,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Canaã dos Carajás
+150215,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Canaã dos Carajás
+150215,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Canaã dos Carajás
+150215,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Canaã dos Carajás
+150215,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Canaã dos Carajás
+150215,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Canaã dos Carajás
+150215,2021,4,3,3 de 4,Não,2. Pandemia (2020-2022),Canaã dos Carajás
+150215,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Canaã dos Carajás
+150215,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Canaã dos Carajás
+150215,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Canaã dos Carajás
+150215,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Canaã dos Carajás
+150220,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Capanema
+150220,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Capanema
+150220,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Capanema
+150220,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Capanema
+150220,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Capanema
+150220,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Capanema
+150220,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Capanema
+150220,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Capanema
+150220,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Capanema
+150220,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Capanema
+150220,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Capanema
+150220,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Capanema
+150230,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Capitão Poço
+150230,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Capitão Poço
+150230,2016,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Capitão Poço
+150230,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Capitão Poço
+150230,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Capitão Poço
+150230,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Capitão Poço
+150230,2020,4,2,2 de 4,Não,2. Pandemia (2020-2022),Capitão Poço
+150230,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Capitão Poço
+150230,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Capitão Poço
+150230,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Capitão Poço
+150230,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Capitão Poço
+150230,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Capitão Poço
+150240,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Castanhal
+150240,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Castanhal
+150240,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Castanhal
+150240,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Castanhal
+150240,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Castanhal
+150240,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Castanhal
+150240,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Castanhal
+150240,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Castanhal
+150240,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Castanhal
+150240,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Castanhal
+150240,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Castanhal
+150240,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Castanhal
+150250,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Chaves
+150250,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Chaves
+150250,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Chaves
+150250,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Chaves
+150250,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Chaves
+150250,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Chaves
+150250,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Chaves
+150250,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Chaves
+150250,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Chaves
+150250,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Chaves
+150250,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Chaves
+150250,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Chaves
+150260,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Colares
+150260,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Colares
+150260,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Colares
+150260,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Colares
+150260,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Colares
+150260,2019,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Colares
+150260,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Colares
+150260,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Colares
+150260,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Colares
+150260,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Colares
+150260,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Colares
+150260,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Colares
+150270,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Conceição do Araguaia
+150270,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Conceição do Araguaia
+150270,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Conceição do Araguaia
+150270,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Conceição do Araguaia
+150270,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Conceição do Araguaia
+150270,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Conceição do Araguaia
+150270,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Conceição do Araguaia
+150270,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Conceição do Araguaia
+150270,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),Conceição do Araguaia
+150270,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Conceição do Araguaia
+150270,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Conceição do Araguaia
+150270,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Conceição do Araguaia
+150275,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Concórdia do Pará
+150275,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Concórdia do Pará
+150275,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Concórdia do Pará
+150275,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Concórdia do Pará
+150275,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Concórdia do Pará
+150275,2019,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Concórdia do Pará
+150275,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),Concórdia do Pará
+150275,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Concórdia do Pará
+150275,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Concórdia do Pará
+150275,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Concórdia do Pará
+150275,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Concórdia do Pará
+150275,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Concórdia do Pará
+150276,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cumaru do Norte
+150276,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Cumaru do Norte
+150276,2016,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Cumaru do Norte
+150276,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Cumaru do Norte
+150276,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cumaru do Norte
+150276,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Cumaru do Norte
+150276,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cumaru do Norte
+150276,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cumaru do Norte
+150276,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Cumaru do Norte
+150276,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Cumaru do Norte
+150276,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Cumaru do Norte
+150276,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Cumaru do Norte
+150277,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Curionópolis
+150277,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curionópolis
+150277,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curionópolis
+150277,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curionópolis
+150277,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Curionópolis
+150277,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Curionópolis
+150277,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curionópolis
+150277,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curionópolis
+150277,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curionópolis
+150277,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Curionópolis
+150277,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Curionópolis
+150277,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Curionópolis
+150280,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curralinho
+150280,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curralinho
+150280,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curralinho
+150280,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curralinho
+150280,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curralinho
+150280,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curralinho
+150280,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curralinho
+150280,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curralinho
+150280,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curralinho
+150280,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Curralinho
+150280,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Curralinho
+150280,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Curralinho
+150285,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Curuá
+150285,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Curuá
+150285,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Curuá
+150285,2017,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Curuá
+150285,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Curuá
+150285,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Curuá
+150285,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curuá
+150285,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curuá
+150285,2022,4,2,2 de 4,Não,2. Pandemia (2020-2022),Curuá
+150285,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Curuá
+150285,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Curuá
+150285,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Curuá
+150290,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Curuçá
+150290,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curuçá
+150290,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curuçá
+150290,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Curuçá
+150290,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Curuçá
+150290,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Curuçá
+150290,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curuçá
+150290,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curuçá
+150290,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Curuçá
+150290,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Curuçá
+150290,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Curuçá
+150290,2025,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Curuçá
+150293,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Dom Eliseu
+150293,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Dom Eliseu
+150293,2016,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Dom Eliseu
+150293,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Dom Eliseu
+150293,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Dom Eliseu
+150293,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Dom Eliseu
+150293,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Dom Eliseu
+150293,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Dom Eliseu
+150293,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Dom Eliseu
+150293,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Dom Eliseu
+150293,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Dom Eliseu
+150293,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Dom Eliseu
+150295,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Eldorado do Carajás
+150295,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Eldorado do Carajás
+150295,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Eldorado do Carajás
+150295,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Eldorado do Carajás
+150295,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Eldorado do Carajás
+150295,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Eldorado do Carajás
+150295,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Eldorado do Carajás
+150295,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Eldorado do Carajás
+150295,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Eldorado do Carajás
+150295,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Eldorado do Carajás
+150295,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Eldorado do Carajás
+150295,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Eldorado do Carajás
+150300,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Faro
+150300,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Faro
+150300,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Faro
+150300,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Faro
+150300,2018,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Faro
+150300,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Faro
+150300,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Faro
+150300,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Faro
+150300,2022,4,2,2 de 4,Não,2. Pandemia (2020-2022),Faro
+150300,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Faro
+150300,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Faro
+150300,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Faro
+150304,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Floresta do Araguaia
+150304,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Floresta do Araguaia
+150304,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Floresta do Araguaia
+150304,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Floresta do Araguaia
+150304,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Floresta do Araguaia
+150304,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Floresta do Araguaia
+150304,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Floresta do Araguaia
+150304,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Floresta do Araguaia
+150304,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Floresta do Araguaia
+150304,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Floresta do Araguaia
+150304,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Floresta do Araguaia
+150304,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Floresta do Araguaia
+150307,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Garrafão do Norte
+150307,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Garrafão do Norte
+150307,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Garrafão do Norte
+150307,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Garrafão do Norte
+150307,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Garrafão do Norte
+150307,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Garrafão do Norte
+150307,2020,4,3,3 de 4,Não,2. Pandemia (2020-2022),Garrafão do Norte
+150307,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Garrafão do Norte
+150307,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),Garrafão do Norte
+150307,2023,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Garrafão do Norte
+150307,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Garrafão do Norte
+150307,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Garrafão do Norte
+150309,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Goianésia do Pará
+150309,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Goianésia do Pará
+150309,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Goianésia do Pará
+150309,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Goianésia do Pará
+150309,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Goianésia do Pará
+150309,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Goianésia do Pará
+150309,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Goianésia do Pará
+150309,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Goianésia do Pará
+150309,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Goianésia do Pará
+150309,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Goianésia do Pará
+150309,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Goianésia do Pará
+150309,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Goianésia do Pará
+150310,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Gurupá
+150310,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Gurupá
+150310,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Gurupá
+150310,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Gurupá
+150310,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Gurupá
+150310,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Gurupá
+150310,2020,4,2,2 de 4,Não,2. Pandemia (2020-2022),Gurupá
+150310,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Gurupá
+150310,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Gurupá
+150310,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Gurupá
+150310,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Gurupá
+150310,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Gurupá
+150320,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Açu
+150320,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Açu
+150320,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Açu
+150320,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Açu
+150320,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Açu
+150320,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Igarapé-Açu
+150320,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Igarapé-Açu
+150320,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Igarapé-Açu
+150320,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Igarapé-Açu
+150320,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Igarapé-Açu
+150320,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Igarapé-Açu
+150320,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Igarapé-Açu
+150330,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Miri
+150330,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Miri
+150330,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Miri
+150330,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Miri
+150330,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Miri
+150330,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Igarapé-Miri
+150330,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Igarapé-Miri
+150330,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Igarapé-Miri
+150330,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Igarapé-Miri
+150330,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Igarapé-Miri
+150330,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Igarapé-Miri
+150330,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Igarapé-Miri
+150340,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Inhangapi
+150340,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Inhangapi
+150340,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Inhangapi
+150340,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Inhangapi
+150340,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Inhangapi
+150340,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Inhangapi
+150340,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Inhangapi
+150340,2021,4,3,3 de 4,Não,2. Pandemia (2020-2022),Inhangapi
+150340,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Inhangapi
+150340,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Inhangapi
+150340,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Inhangapi
+150340,2025,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Inhangapi
+150345,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Ipixuna do Pará
+150345,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ipixuna do Pará
+150345,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ipixuna do Pará
+150345,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ipixuna do Pará
+150345,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ipixuna do Pará
+150345,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ipixuna do Pará
+150345,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ipixuna do Pará
+150345,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ipixuna do Pará
+150345,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ipixuna do Pará
+150345,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ipixuna do Pará
+150345,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ipixuna do Pará
+150345,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ipixuna do Pará
+150350,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Irituia
+150350,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Irituia
+150350,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Irituia
+150350,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Irituia
+150350,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Irituia
+150350,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Irituia
+150350,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Irituia
+150350,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Irituia
+150350,2022,4,2,2 de 4,Não,2. Pandemia (2020-2022),Irituia
+150350,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Irituia
+150350,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Irituia
+150350,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Irituia
+150360,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Itaituba
+150360,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Itaituba
+150360,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Itaituba
+150360,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Itaituba
+150360,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Itaituba
+150360,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Itaituba
+150360,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Itaituba
+150360,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Itaituba
+150360,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Itaituba
+150360,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Itaituba
+150360,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Itaituba
+150360,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Itaituba
+150370,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Itupiranga
+150370,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Itupiranga
+150370,2016,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Itupiranga
+150370,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Itupiranga
+150370,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Itupiranga
+150370,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Itupiranga
+150370,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Itupiranga
+150370,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Itupiranga
+150370,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Itupiranga
+150370,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Itupiranga
+150370,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Itupiranga
+150370,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Itupiranga
+150375,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Jacareacanga
+150375,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Jacareacanga
+150375,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacareacanga
+150375,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacareacanga
+150375,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacareacanga
+150375,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacareacanga
+150375,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Jacareacanga
+150375,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Jacareacanga
+150375,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Jacareacanga
+150375,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Jacareacanga
+150375,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Jacareacanga
+150375,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Jacareacanga
+150380,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Jacundá
+150380,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacundá
+150380,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacundá
+150380,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacundá
+150380,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacundá
+150380,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Jacundá
+150380,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Jacundá
+150380,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Jacundá
+150380,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Jacundá
+150380,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Jacundá
+150380,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Jacundá
+150380,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Jacundá
+150390,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Juruti
+150390,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Juruti
+150390,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Juruti
+150390,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Juruti
+150390,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Juruti
+150390,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Juruti
+150390,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Juruti
+150390,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Juruti
+150390,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Juruti
+150390,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Juruti
+150390,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Juruti
+150390,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Juruti
+150400,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Limoeiro do Ajuru
+150400,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Limoeiro do Ajuru
+150400,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Limoeiro do Ajuru
+150400,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Limoeiro do Ajuru
+150400,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Limoeiro do Ajuru
+150400,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Limoeiro do Ajuru
+150400,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Limoeiro do Ajuru
+150400,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Limoeiro do Ajuru
+150400,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Limoeiro do Ajuru
+150400,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Limoeiro do Ajuru
+150400,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Limoeiro do Ajuru
+150400,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Limoeiro do Ajuru
+150405,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Mãe do Rio
+150405,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mãe do Rio
+150405,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mãe do Rio
+150405,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mãe do Rio
+150405,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mãe do Rio
+150405,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mãe do Rio
+150405,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Mãe do Rio
+150405,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Mãe do Rio
+150405,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Mãe do Rio
+150405,2023,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Mãe do Rio
+150405,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Mãe do Rio
+150405,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Mãe do Rio
+150410,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Magalhães Barata
+150410,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Magalhães Barata
+150410,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Magalhães Barata
+150410,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Magalhães Barata
+150410,2018,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Magalhães Barata
+150410,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Magalhães Barata
+150410,2020,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Magalhães Barata
+150410,2021,4,2,2 de 4,Não,2. Pandemia (2020-2022),Magalhães Barata
+150410,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Magalhães Barata
+150410,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Magalhães Barata
+150410,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Magalhães Barata
+150410,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Magalhães Barata
+150420,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marabá
+150420,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marabá
+150420,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marabá
+150420,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marabá
+150420,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marabá
+150420,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Marabá
+150420,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marabá
+150420,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marabá
+150420,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marabá
+150420,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Marabá
+150420,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Marabá
+150420,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Marabá
+150430,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Maracanã
+150430,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Maracanã
+150430,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Maracanã
+150430,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Maracanã
+150430,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Maracanã
+150430,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Maracanã
+150430,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Maracanã
+150430,2021,4,2,2 de 4,Não,2. Pandemia (2020-2022),Maracanã
+150430,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Maracanã
+150430,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Maracanã
+150430,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Maracanã
+150430,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Maracanã
+150440,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Marapanim
+150440,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Marapanim
+150440,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marapanim
+150440,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marapanim
+150440,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marapanim
+150440,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marapanim
+150440,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marapanim
+150440,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marapanim
+150440,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marapanim
+150440,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Marapanim
+150440,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Marapanim
+150440,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Marapanim
+150442,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Marituba
+150442,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Marituba
+150442,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marituba
+150442,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marituba
+150442,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marituba
+150442,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Marituba
+150442,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marituba
+150442,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marituba
+150442,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Marituba
+150442,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Marituba
+150442,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Marituba
+150442,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Marituba
+150445,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Medicilândia
+150445,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Medicilândia
+150445,2016,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Medicilândia
+150445,2017,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Medicilândia
+150445,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Medicilândia
+150445,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Medicilândia
+150445,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Medicilândia
+150445,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),Medicilândia
+150445,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),Medicilândia
+150445,2023,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Medicilândia
+150445,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Medicilândia
+150445,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Medicilândia
+150450,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Melgaço
+150450,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Melgaço
+150450,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Melgaço
+150450,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Melgaço
+150450,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Melgaço
+150450,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Melgaço
+150450,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Melgaço
+150450,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Melgaço
+150450,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Melgaço
+150450,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Melgaço
+150450,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Melgaço
+150450,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Melgaço
+150460,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Mocajuba
+150460,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mocajuba
+150460,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mocajuba
+150460,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mocajuba
+150460,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mocajuba
+150460,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mocajuba
+150460,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Mocajuba
+150460,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Mocajuba
+150460,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Mocajuba
+150460,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Mocajuba
+150460,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Mocajuba
+150460,2025,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Mocajuba
+150470,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Moju
+150470,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Moju
+150470,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Moju
+150470,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Moju
+150470,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Moju
+150470,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Moju
+150470,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Moju
+150470,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Moju
+150470,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Moju
+150470,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Moju
+150470,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Moju
+150470,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Moju
+150475,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mojuí dos Campos
+150475,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Mojuí dos Campos
+150475,2018,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Mojuí dos Campos
+150475,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Mojuí dos Campos
+150475,2020,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Mojuí dos Campos
+150475,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),Mojuí dos Campos
+150475,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Mojuí dos Campos
+150475,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Mojuí dos Campos
+150475,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Mojuí dos Campos
+150475,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Mojuí dos Campos
+150480,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Monte Alegre
+150480,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Monte Alegre
+150480,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Monte Alegre
+150480,2017,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Monte Alegre
+150480,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Monte Alegre
+150480,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Monte Alegre
+150480,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Monte Alegre
+150480,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Monte Alegre
+150480,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Monte Alegre
+150480,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Monte Alegre
+150480,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Monte Alegre
+150480,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Monte Alegre
+150490,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Muaná
+150490,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Muaná
+150490,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Muaná
+150490,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Muaná
+150490,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Muaná
+150490,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Muaná
+150490,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Muaná
+150490,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Muaná
+150490,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Muaná
+150490,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Muaná
+150490,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Muaná
+150490,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Muaná
+150495,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Nova Esperança do Piriá
+150495,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Nova Esperança do Piriá
+150495,2016,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Nova Esperança do Piriá
+150495,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Nova Esperança do Piriá
+150495,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Nova Esperança do Piriá
+150495,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Nova Esperança do Piriá
+150495,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),Nova Esperança do Piriá
+150495,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Nova Esperança do Piriá
+150495,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),Nova Esperança do Piriá
+150495,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Nova Esperança do Piriá
+150495,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Nova Esperança do Piriá
+150495,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Nova Esperança do Piriá
+150497,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Nova Ipixuna
+150497,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Nova Ipixuna
+150497,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Nova Ipixuna
+150497,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Nova Ipixuna
+150497,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Nova Ipixuna
+150497,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Nova Ipixuna
+150497,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),Nova Ipixuna
+150497,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Nova Ipixuna
+150497,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Nova Ipixuna
+150497,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Nova Ipixuna
+150497,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Nova Ipixuna
+150497,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Nova Ipixuna
+150500,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Nova Timboteua
+150500,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Nova Timboteua
+150500,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Nova Timboteua
+150500,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Nova Timboteua
+150500,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Nova Timboteua
+150500,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Nova Timboteua
+150500,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),Nova Timboteua
+150500,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Nova Timboteua
+150500,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Nova Timboteua
+150500,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Nova Timboteua
+150500,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Nova Timboteua
+150500,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Nova Timboteua
+150503,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Novo Progresso
+150503,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Novo Progresso
+150503,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Novo Progresso
+150503,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Novo Progresso
+150503,2018,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Novo Progresso
+150503,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Novo Progresso
+150503,2020,4,3,3 de 4,Não,2. Pandemia (2020-2022),Novo Progresso
+150503,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),Novo Progresso
+150503,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Novo Progresso
+150503,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Novo Progresso
+150503,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Novo Progresso
+150503,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Novo Progresso
+150506,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Novo Repartimento
+150506,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Novo Repartimento
+150506,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Novo Repartimento
+150506,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Novo Repartimento
+150506,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Novo Repartimento
+150506,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Novo Repartimento
+150506,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Novo Repartimento
+150506,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Novo Repartimento
+150506,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Novo Repartimento
+150506,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Novo Repartimento
+150506,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Novo Repartimento
+150506,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Novo Repartimento
+150510,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Óbidos
+150510,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Óbidos
+150510,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Óbidos
+150510,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Óbidos
+150510,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Óbidos
+150510,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Óbidos
+150510,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Óbidos
+150510,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Óbidos
+150510,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Óbidos
+150510,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Óbidos
+150510,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Óbidos
+150510,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Óbidos
+150520,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oeiras do Pará
+150520,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oeiras do Pará
+150520,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oeiras do Pará
+150520,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oeiras do Pará
+150520,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oeiras do Pará
+150520,2019,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Oeiras do Pará
+150520,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Oeiras do Pará
+150520,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Oeiras do Pará
+150520,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Oeiras do Pará
+150520,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Oeiras do Pará
+150520,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Oeiras do Pará
+150520,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Oeiras do Pará
+150530,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Oriximiná
+150530,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oriximiná
+150530,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oriximiná
+150530,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oriximiná
+150530,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oriximiná
+150530,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Oriximiná
+150530,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Oriximiná
+150530,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Oriximiná
+150530,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Oriximiná
+150530,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Oriximiná
+150530,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Oriximiná
+150530,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Oriximiná
+150540,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Ourém
+150540,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Ourém
+150540,2016,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Ourém
+150540,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Ourém
+150540,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Ourém
+150540,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Ourém
+150540,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ourém
+150540,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ourém
+150540,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ourém
+150540,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Ourém
+150540,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ourém
+150540,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ourém
+150543,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Ourilândia do Norte
+150543,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ourilândia do Norte
+150543,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ourilândia do Norte
+150543,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ourilândia do Norte
+150543,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ourilândia do Norte
+150543,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ourilândia do Norte
+150543,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ourilândia do Norte
+150543,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ourilândia do Norte
+150543,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ourilândia do Norte
+150543,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ourilândia do Norte
+150543,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ourilândia do Norte
+150543,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Ourilândia do Norte
+150548,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Pacajá
+150548,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Pacajá
+150548,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Pacajá
+150548,2017,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Pacajá
+150548,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Pacajá
+150548,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Pacajá
+150548,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Pacajá
+150548,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Pacajá
+150548,2022,4,2,2 de 4,Não,2. Pandemia (2020-2022),Pacajá
+150548,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Pacajá
+150548,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Pacajá
+150548,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Pacajá
+150549,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Palestina do Pará
+150549,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Palestina do Pará
+150549,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Palestina do Pará
+150549,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Palestina do Pará
+150549,2018,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Palestina do Pará
+150549,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Palestina do Pará
+150549,2020,4,3,3 de 4,Não,2. Pandemia (2020-2022),Palestina do Pará
+150549,2021,4,2,2 de 4,Não,2. Pandemia (2020-2022),Palestina do Pará
+150549,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Palestina do Pará
+150549,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Palestina do Pará
+150549,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Palestina do Pará
+150549,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Palestina do Pará
+150550,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Paragominas
+150550,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Paragominas
+150550,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Paragominas
+150550,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Paragominas
+150550,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Paragominas
+150550,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Paragominas
+150550,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Paragominas
+150550,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Paragominas
+150550,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Paragominas
+150550,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Paragominas
+150550,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Paragominas
+150550,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Paragominas
+150553,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Parauapebas
+150553,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Parauapebas
+150553,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Parauapebas
+150553,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Parauapebas
+150553,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Parauapebas
+150553,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Parauapebas
+150553,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Parauapebas
+150553,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Parauapebas
+150553,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Parauapebas
+150553,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Parauapebas
+150553,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Parauapebas
+150553,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Parauapebas
+150555,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Pau D'Arco
+150555,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Pau D'Arco
+150555,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Pau D'Arco
+150555,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Pau D'Arco
+150555,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Pau D'Arco
+150555,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Pau D'Arco
+150555,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Pau D'Arco
+150555,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Pau D'Arco
+150555,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Pau D'Arco
+150555,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Pau D'Arco
+150555,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Pau D'Arco
+150555,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Pau D'Arco
+150560,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Peixe-Boi
+150560,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Peixe-Boi
+150560,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Peixe-Boi
+150560,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Peixe-Boi
+150560,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Peixe-Boi
+150560,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Peixe-Boi
+150560,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Peixe-Boi
+150560,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),Peixe-Boi
+150560,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Peixe-Boi
+150560,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Peixe-Boi
+150560,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Peixe-Boi
+150560,2025,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Peixe-Boi
+150563,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Piçarra
+150563,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Piçarra
+150563,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Piçarra
+150563,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Piçarra
+150563,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Piçarra
+150563,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Piçarra
+150563,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),Piçarra
+150563,2021,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Piçarra
+150563,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Piçarra
+150563,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Piçarra
+150563,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Piçarra
+150563,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Piçarra
+150565,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Placas
+150565,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Placas
+150565,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Placas
+150565,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Placas
+150565,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Placas
+150565,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Placas
+150565,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Placas
+150565,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Placas
+150565,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Placas
+150565,2023,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Placas
+150565,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Placas
+150565,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Placas
+150570,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Ponta de Pedras
+150570,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Ponta de Pedras
+150570,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Ponta de Pedras
+150570,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Ponta de Pedras
+150570,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ponta de Pedras
+150570,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Ponta de Pedras
+150570,2020,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Ponta de Pedras
+150570,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),Ponta de Pedras
+150570,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Ponta de Pedras
+150570,2023,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Ponta de Pedras
+150570,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Ponta de Pedras
+150570,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Ponta de Pedras
+150580,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Portel
+150580,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Portel
+150580,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Portel
+150580,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Portel
+150580,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Portel
+150580,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Portel
+150580,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Portel
+150580,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Portel
+150580,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Portel
+150580,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Portel
+150580,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Portel
+150580,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Portel
+150590,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Porto de Moz
+150590,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Porto de Moz
+150590,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Porto de Moz
+150590,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Porto de Moz
+150590,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Porto de Moz
+150590,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Porto de Moz
+150590,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Porto de Moz
+150590,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Porto de Moz
+150590,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Porto de Moz
+150590,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Porto de Moz
+150590,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Porto de Moz
+150590,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Porto de Moz
+150600,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Prainha
+150600,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Prainha
+150600,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Prainha
+150600,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Prainha
+150600,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Prainha
+150600,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Prainha
+150600,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Prainha
+150600,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Prainha
+150600,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Prainha
+150600,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Prainha
+150600,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Prainha
+150600,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Prainha
+150610,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Primavera
+150610,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Primavera
+150610,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Primavera
+150610,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Primavera
+150610,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Primavera
+150610,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Primavera
+150610,2020,4,2,2 de 4,Não,2. Pandemia (2020-2022),Primavera
+150610,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Primavera
+150610,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Primavera
+150610,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Primavera
+150610,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Primavera
+150610,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Primavera
+150611,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Quatipuru
+150611,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Quatipuru
+150611,2016,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Quatipuru
+150611,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Quatipuru
+150611,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Quatipuru
+150611,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Quatipuru
+150611,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Quatipuru
+150611,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),Quatipuru
+150611,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Quatipuru
+150611,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Quatipuru
+150611,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Quatipuru
+150611,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Quatipuru
+150613,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Redenção
+150613,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Redenção
+150613,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Redenção
+150613,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Redenção
+150613,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Redenção
+150613,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Redenção
+150613,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Redenção
+150613,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Redenção
+150613,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Redenção
+150613,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Redenção
+150613,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Redenção
+150613,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Redenção
+150616,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rio Maria
+150616,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rio Maria
+150616,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rio Maria
+150616,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rio Maria
+150616,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rio Maria
+150616,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rio Maria
+150616,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Rio Maria
+150616,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Rio Maria
+150616,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Rio Maria
+150616,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Rio Maria
+150616,2024,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Rio Maria
+150616,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Rio Maria
+150618,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Rondon do Pará
+150618,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rondon do Pará
+150618,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rondon do Pará
+150618,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rondon do Pará
+150618,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rondon do Pará
+150618,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rondon do Pará
+150618,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Rondon do Pará
+150618,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Rondon do Pará
+150618,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Rondon do Pará
+150618,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Rondon do Pará
+150618,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Rondon do Pará
+150618,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Rondon do Pará
+150619,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rurópolis
+150619,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rurópolis
+150619,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rurópolis
+150619,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rurópolis
+150619,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Rurópolis
+150619,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Rurópolis
+150619,2020,4,2,2 de 4,Não,2. Pandemia (2020-2022),Rurópolis
+150619,2021,4,2,2 de 4,Não,2. Pandemia (2020-2022),Rurópolis
+150619,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Rurópolis
+150619,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Rurópolis
+150619,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Rurópolis
+150619,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Rurópolis
+150620,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Salinópolis
+150620,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Salinópolis
+150620,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Salinópolis
+150620,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Salinópolis
+150620,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Salinópolis
+150620,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Salinópolis
+150620,2020,4,2,2 de 4,Não,2. Pandemia (2020-2022),Salinópolis
+150620,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),Salinópolis
+150620,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Salinópolis
+150620,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Salinópolis
+150620,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Salinópolis
+150620,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Salinópolis
+150630,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Salvaterra
+150630,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Salvaterra
+150630,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Salvaterra
+150630,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Salvaterra
+150630,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Salvaterra
+150630,2019,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Salvaterra
+150630,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Salvaterra
+150630,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Salvaterra
+150630,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Salvaterra
+150630,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Salvaterra
+150630,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Salvaterra
+150630,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Salvaterra
+150635,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Bárbara do Pará
+150635,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Bárbara do Pará
+150635,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Bárbara do Pará
+150635,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Bárbara do Pará
+150635,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Bárbara do Pará
+150635,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Bárbara do Pará
+150635,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Bárbara do Pará
+150635,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Bárbara do Pará
+150635,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Bárbara do Pará
+150635,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Santa Bárbara do Pará
+150635,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Bárbara do Pará
+150635,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Bárbara do Pará
+150640,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Cruz do Arari
+150640,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Cruz do Arari
+150640,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Cruz do Arari
+150640,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Santa Cruz do Arari
+150640,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santa Cruz do Arari
+150640,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santa Cruz do Arari
+150640,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),Santa Cruz do Arari
+150640,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Cruz do Arari
+150640,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Cruz do Arari
+150640,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Cruz do Arari
+150640,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Cruz do Arari
+150640,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Cruz do Arari
+150650,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santa Izabel do Pará
+150650,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Izabel do Pará
+150650,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Izabel do Pará
+150650,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Izabel do Pará
+150650,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Izabel do Pará
+150650,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Izabel do Pará
+150650,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Izabel do Pará
+150650,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Izabel do Pará
+150650,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Izabel do Pará
+150650,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Izabel do Pará
+150650,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Izabel do Pará
+150650,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Izabel do Pará
+150655,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Santa Luzia do Pará
+150655,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Luzia do Pará
+150655,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Luzia do Pará
+150655,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Luzia do Pará
+150655,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Luzia do Pará
+150655,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Luzia do Pará
+150655,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Luzia do Pará
+150655,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Luzia do Pará
+150655,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Luzia do Pará
+150655,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Luzia do Pará
+150655,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Santa Luzia do Pará
+150655,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Santa Luzia do Pará
+150658,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Santa Maria das Barreiras
+150658,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Maria das Barreiras
+150658,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Maria das Barreiras
+150658,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Maria das Barreiras
+150658,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Maria das Barreiras
+150658,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santa Maria das Barreiras
+150658,2020,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Santa Maria das Barreiras
+150658,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),Santa Maria das Barreiras
+150658,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),Santa Maria das Barreiras
+150658,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Santa Maria das Barreiras
+150658,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Santa Maria das Barreiras
+150658,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Santa Maria das Barreiras
+150660,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santa Maria do Pará
+150660,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Maria do Pará
+150660,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Maria do Pará
+150660,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Maria do Pará
+150660,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Maria do Pará
+150660,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santa Maria do Pará
+150660,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Maria do Pará
+150660,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Maria do Pará
+150660,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santa Maria do Pará
+150660,2023,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Santa Maria do Pará
+150660,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santa Maria do Pará
+150660,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Santa Maria do Pará
+150670,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santana do Araguaia
+150670,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Santana do Araguaia
+150670,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santana do Araguaia
+150670,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santana do Araguaia
+150670,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santana do Araguaia
+150670,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Santana do Araguaia
+150670,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santana do Araguaia
+150670,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santana do Araguaia
+150670,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),Santana do Araguaia
+150670,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santana do Araguaia
+150670,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santana do Araguaia
+150670,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santana do Araguaia
+150680,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santarém
+150680,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém
+150680,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém
+150680,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém
+150680,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém
+150680,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém
+150680,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santarém
+150680,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santarém
+150680,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santarém
+150680,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santarém
+150680,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santarém
+150680,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santarém
+150690,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Santarém Novo
+150690,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Santarém Novo
+150690,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém Novo
+150690,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém Novo
+150690,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém Novo
+150690,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santarém Novo
+150690,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santarém Novo
+150690,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santarém Novo
+150690,2022,4,2,2 de 4,Não,2. Pandemia (2020-2022),Santarém Novo
+150690,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Santarém Novo
+150690,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Santarém Novo
+150690,2025,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Santarém Novo
+150700,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Santo Antônio do Tauá
+150700,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santo Antônio do Tauá
+150700,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santo Antônio do Tauá
+150700,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Santo Antônio do Tauá
+150700,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santo Antônio do Tauá
+150700,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Santo Antônio do Tauá
+150700,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santo Antônio do Tauá
+150700,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santo Antônio do Tauá
+150700,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Santo Antônio do Tauá
+150700,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santo Antônio do Tauá
+150700,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santo Antônio do Tauá
+150700,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Santo Antônio do Tauá
+150710,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São Caetano de Odivelas
+150710,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São Caetano de Odivelas
+150710,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Caetano de Odivelas
+150710,2017,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),São Caetano de Odivelas
+150710,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Caetano de Odivelas
+150710,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São Caetano de Odivelas
+150710,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),São Caetano de Odivelas
+150710,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),São Caetano de Odivelas
+150710,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),São Caetano de Odivelas
+150710,2023,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),São Caetano de Odivelas
+150710,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),São Caetano de Odivelas
+150710,2025,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),São Caetano de Odivelas
+150715,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Araguaia
+150715,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Araguaia
+150715,2016,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Araguaia
+150715,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Araguaia
+150715,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Araguaia
+150715,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São Domingos do Araguaia
+150715,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Domingos do Araguaia
+150715,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Domingos do Araguaia
+150715,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),São Domingos do Araguaia
+150715,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Domingos do Araguaia
+150715,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Domingos do Araguaia
+150715,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Domingos do Araguaia
+150720,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Capim
+150720,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Capim
+150720,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Capim
+150720,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Capim
+150720,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Capim
+150720,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São Domingos do Capim
+150720,2020,4,3,3 de 4,Não,2. Pandemia (2020-2022),São Domingos do Capim
+150720,2021,4,4,4 de 4,Sim,2. Pandemia (2020-2022),São Domingos do Capim
+150720,2022,4,4,4 de 4,Sim,2. Pandemia (2020-2022),São Domingos do Capim
+150720,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),São Domingos do Capim
+150720,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),São Domingos do Capim
+150720,2025,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),São Domingos do Capim
+150730,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Félix do Xingu
+150730,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Félix do Xingu
+150730,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Félix do Xingu
+150730,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São Félix do Xingu
+150730,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Félix do Xingu
+150730,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Félix do Xingu
+150730,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Félix do Xingu
+150730,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Félix do Xingu
+150730,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Félix do Xingu
+150730,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Félix do Xingu
+150730,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Félix do Xingu
+150730,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Félix do Xingu
+150740,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São Francisco do Pará
+150740,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São Francisco do Pará
+150740,2016,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),São Francisco do Pará
+150740,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),São Francisco do Pará
+150740,2018,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São Francisco do Pará
+150740,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),São Francisco do Pará
+150740,2020,4,2,2 de 4,Não,2. Pandemia (2020-2022),São Francisco do Pará
+150740,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),São Francisco do Pará
+150740,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Francisco do Pará
+150740,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),São Francisco do Pará
+150740,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),São Francisco do Pará
+150740,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),São Francisco do Pará
+150745,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São Geraldo do Araguaia
+150745,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Geraldo do Araguaia
+150745,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Geraldo do Araguaia
+150745,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Geraldo do Araguaia
+150745,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Geraldo do Araguaia
+150745,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Geraldo do Araguaia
+150745,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Geraldo do Araguaia
+150745,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),São Geraldo do Araguaia
+150745,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),São Geraldo do Araguaia
+150745,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Geraldo do Araguaia
+150745,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),São Geraldo do Araguaia
+150745,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Geraldo do Araguaia
+150746,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),São João da Ponta
+150746,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São João da Ponta
+150746,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João da Ponta
+150746,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João da Ponta
+150746,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),São João da Ponta
+150746,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São João da Ponta
+150746,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),São João da Ponta
+150746,2021,4,1,1 de 4,Não,2. Pandemia (2020-2022),São João da Ponta
+150746,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),São João da Ponta
+150746,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São João da Ponta
+150746,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São João da Ponta
+150746,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),São João da Ponta
+150747,2014,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),São João de Pirabas
+150747,2015,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São João de Pirabas
+150747,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João de Pirabas
+150747,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João de Pirabas
+150747,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João de Pirabas
+150747,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João de Pirabas
+150747,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),São João de Pirabas
+150747,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),São João de Pirabas
+150747,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),São João de Pirabas
+150747,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São João de Pirabas
+150747,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),São João de Pirabas
+150747,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São João de Pirabas
+150750,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João do Araguaia
+150750,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João do Araguaia
+150750,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São João do Araguaia
+150750,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São João do Araguaia
+150750,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João do Araguaia
+150750,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São João do Araguaia
+150750,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),São João do Araguaia
+150750,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),São João do Araguaia
+150750,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),São João do Araguaia
+150750,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),São João do Araguaia
+150750,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),São João do Araguaia
+150750,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São João do Araguaia
+150760,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),São Miguel do Guamá
+150760,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Miguel do Guamá
+150760,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Miguel do Guamá
+150760,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Miguel do Guamá
+150760,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Miguel do Guamá
+150760,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),São Miguel do Guamá
+150760,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Miguel do Guamá
+150760,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Miguel do Guamá
+150760,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Miguel do Guamá
+150760,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Miguel do Guamá
+150760,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),São Miguel do Guamá
+150760,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),São Miguel do Guamá
+150770,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),São Sebastião da Boa Vista
+150770,2015,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São Sebastião da Boa Vista
+150770,2016,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),São Sebastião da Boa Vista
+150770,2017,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),São Sebastião da Boa Vista
+150770,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),São Sebastião da Boa Vista
+150770,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),São Sebastião da Boa Vista
+150770,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Sebastião da Boa Vista
+150770,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Sebastião da Boa Vista
+150770,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),São Sebastião da Boa Vista
+150770,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),São Sebastião da Boa Vista
+150770,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),São Sebastião da Boa Vista
+150770,2025,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),São Sebastião da Boa Vista
+150775,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Sapucaia
+150775,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Sapucaia
+150775,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Sapucaia
+150775,2017,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Sapucaia
+150775,2018,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Sapucaia
+150775,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Sapucaia
+150775,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Sapucaia
+150775,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Sapucaia
+150775,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Sapucaia
+150775,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Sapucaia
+150775,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Sapucaia
+150775,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Sapucaia
+150780,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Senador José Porfírio
+150780,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Senador José Porfírio
+150780,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Senador José Porfírio
+150780,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Senador José Porfírio
+150780,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Senador José Porfírio
+150780,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Senador José Porfírio
+150780,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Senador José Porfírio
+150780,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Senador José Porfírio
+150780,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Senador José Porfírio
+150780,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Senador José Porfírio
+150780,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Senador José Porfírio
+150780,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Senador José Porfírio
+150790,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Soure
+150790,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Soure
+150790,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Soure
+150790,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Soure
+150790,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Soure
+150790,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Soure
+150790,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Soure
+150790,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Soure
+150790,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Soure
+150790,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Soure
+150790,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Soure
+150790,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Soure
+150795,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Tailândia
+150795,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tailândia
+150795,2016,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Tailândia
+150795,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tailândia
+150795,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tailândia
+150795,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Tailândia
+150795,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tailândia
+150795,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tailândia
+150795,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tailândia
+150795,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Tailândia
+150795,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Tailândia
+150795,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Tailândia
+150796,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Terra Alta
+150796,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Terra Alta
+150796,2016,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Terra Alta
+150796,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Terra Alta
+150796,2018,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Terra Alta
+150796,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Terra Alta
+150796,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Terra Alta
+150796,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Terra Alta
+150796,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Terra Alta
+150796,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Terra Alta
+150796,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Terra Alta
+150796,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Terra Alta
+150797,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Terra Santa
+150797,2015,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Terra Santa
+150797,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Terra Santa
+150797,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Terra Santa
+150797,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Terra Santa
+150797,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Terra Santa
+150797,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Terra Santa
+150797,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Terra Santa
+150797,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Terra Santa
+150797,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Terra Santa
+150797,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Terra Santa
+150797,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Terra Santa
+150800,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Tomé-Açu
+150800,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tomé-Açu
+150800,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Tomé-Açu
+150800,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tomé-Açu
+150800,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tomé-Açu
+150800,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tomé-Açu
+150800,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tomé-Açu
+150800,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tomé-Açu
+150800,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tomé-Açu
+150800,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Tomé-Açu
+150800,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Tomé-Açu
+150800,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Tomé-Açu
+150803,2014,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Tracuateua
+150803,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tracuateua
+150803,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tracuateua
+150803,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tracuateua
+150803,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tracuateua
+150803,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tracuateua
+150803,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tracuateua
+150803,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tracuateua
+150803,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tracuateua
+150803,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Tracuateua
+150803,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Tracuateua
+150803,2025,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Tracuateua
+150805,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Trairão
+150805,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Trairão
+150805,2016,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Trairão
+150805,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Trairão
+150805,2018,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Trairão
+150805,2019,4,4,4 de 4,Sim,1. Pré-pandemia (2014-2019),Trairão
+150805,2020,4,3,3 de 4,Não,2. Pandemia (2020-2022),Trairão
+150805,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Trairão
+150805,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Trairão
+150805,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Trairão
+150805,2024,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Trairão
+150805,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Trairão
+150808,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Tucumã
+150808,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucumã
+150808,2016,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Tucumã
+150808,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Tucumã
+150808,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucumã
+150808,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucumã
+150808,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tucumã
+150808,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tucumã
+150808,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),Tucumã
+150808,2023,4,4,4 de 4,Sim,3. Pós-pandemia (2023-2025),Tucumã
+150808,2024,4,3,3 de 4,Não,3. Pós-pandemia (2023-2025),Tucumã
+150808,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Tucumã
+150810,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucuruí
+150810,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucuruí
+150810,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucuruí
+150810,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucuruí
+150810,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucuruí
+150810,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Tucuruí
+150810,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tucuruí
+150810,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tucuruí
+150810,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Tucuruí
+150810,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Tucuruí
+150810,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Tucuruí
+150810,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Tucuruí
+150812,2014,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Ulianópolis
+150812,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ulianópolis
+150812,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ulianópolis
+150812,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ulianópolis
+150812,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ulianópolis
+150812,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Ulianópolis
+150812,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ulianópolis
+150812,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Ulianópolis
+150812,2022,4,3,3 de 4,Não,2. Pandemia (2020-2022),Ulianópolis
+150812,2023,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Ulianópolis
+150812,2024,4,2,2 de 4,Não,3. Pós-pandemia (2023-2025),Ulianópolis
+150812,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Ulianópolis
+150815,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Uruará
+150815,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Uruará
+150815,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Uruará
+150815,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Uruará
+150815,2018,4,2,2 de 4,Não,1. Pré-pandemia (2014-2019),Uruará
+150815,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Uruará
+150815,2020,4,1,1 de 4,Não,2. Pandemia (2020-2022),Uruará
+150815,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Uruará
+150815,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Uruará
+150815,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Uruará
+150815,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Uruará
+150815,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Uruará
+150820,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Vigia
+150820,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Vigia
+150820,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Vigia
+150820,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Vigia
+150820,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Vigia
+150820,2019,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Vigia
+150820,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Vigia
+150820,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Vigia
+150820,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Vigia
+150820,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Vigia
+150820,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Vigia
+150820,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Vigia
+150830,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Viseu
+150830,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Viseu
+150830,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Viseu
+150830,2017,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Viseu
+150830,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Viseu
+150830,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Viseu
+150830,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Viseu
+150830,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Viseu
+150830,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Viseu
+150830,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Viseu
+150830,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Viseu
+150830,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Viseu
+150835,2014,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Vitória do Xingu
+150835,2015,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Vitória do Xingu
+150835,2016,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Vitória do Xingu
+150835,2017,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Vitória do Xingu
+150835,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Vitória do Xingu
+150835,2019,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Vitória do Xingu
+150835,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Vitória do Xingu
+150835,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Vitória do Xingu
+150835,2022,4,0,0 de 4,Não,2. Pandemia (2020-2022),Vitória do Xingu
+150835,2023,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Vitória do Xingu
+150835,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Vitória do Xingu
+150835,2025,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Vitória do Xingu
+150840,2014,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Xinguara
+150840,2015,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Xinguara
+150840,2016,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Xinguara
+150840,2017,4,1,1 de 4,Não,1. Pré-pandemia (2014-2019),Xinguara
+150840,2018,4,0,0 de 4,Não,1. Pré-pandemia (2014-2019),Xinguara
+150840,2019,4,3,3 de 4,Não,1. Pré-pandemia (2014-2019),Xinguara
+150840,2020,4,0,0 de 4,Não,2. Pandemia (2020-2022),Xinguara
+150840,2021,4,0,0 de 4,Não,2. Pandemia (2020-2022),Xinguara
+150840,2022,4,1,1 de 4,Não,2. Pandemia (2020-2022),Xinguara
+150840,2023,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Xinguara
+150840,2024,4,0,0 de 4,Não,3. Pós-pandemia (2023-2025),Xinguara
+150840,2025,4,1,1 de 4,Não,3. Pós-pandemia (2023-2025),Xinguara
