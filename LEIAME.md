@@ -2,8 +2,8 @@
 
 ## Painéis: pasta `tableau/`
 
-- `cobertura-vacinal.twbx`: workbook empacotado (dados incluídos) com 4 dashboards (Brasil, Regiões, Pará, Municípios) e a Story "Cobertura vacinal infantil". Abre no Tableau Desktop ou no Tableau Public.
-- `sintese_achados.md`: síntese dos achados e limitações, usada na página final da Story.
+- `Cobertura Vacinal.twb`: workbook com 4 dashboards (Brasil, Regiões, Pará, Municípios) e a Story "Story 1". Abre no Tableau Desktop ou no Tableau Public Desktop.
+- `Data/`: dados usados pelo workbook (CSVs, GeoJSON dos municípios e extrato `.hyper`). Mantenha a pasta ao lado do `.twb`.
 
 ## Use no Tableau: pasta `base_tableau/`
 
